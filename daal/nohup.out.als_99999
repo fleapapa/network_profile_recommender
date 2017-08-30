@@ -1,0 +1,2134 @@
+nUsers[0] = 25001
+          dataTable[0]= 1360, 99982
+transposedDataTable[0]= 25000, 5438
+nUsers[1] = 25001
+          dataTable[1]= 1360, 99997
+transposedDataTable[1]= 25000, 5438
+nUsers[2] = 25001
+          dataTable[2]= 1360, 99995
+transposedDataTable[2]= 25000, 5432
+nAllUsers = 5438
+nAllItems = 99998
+nAllUsers = 5438
+nAllItems = 99998
+nAllUsers = 5438
+nAllItems = 99998
+nUsers[3] = 24999
+          dataTable[3]= 1358, 99998
+transposedDataTable[3]= 24998, 5438
+nAllUsers = 5438
+nAllItems = 99998
+rmse 0.24535, nfactor 55, alpha 35.0, lambda 0.30, maxIterations 2   *
+rmse 0.24472, nfactor 55, alpha 35.5, lambda 0.30, maxIterations 2   *
+rmse 0.24411, nfactor 55, alpha 36.0, lambda 0.30, maxIterations 2   *
+rmse 0.24351, nfactor 55, alpha 36.5, lambda 0.30, maxIterations 2   *
+rmse 0.24293, nfactor 55, alpha 37.0, lambda 0.30, maxIterations 2   *
+rmse 0.24235, nfactor 55, alpha 37.5, lambda 0.30, maxIterations 2   *
+rmse 0.24179, nfactor 55, alpha 38.0, lambda 0.30, maxIterations 2   *
+rmse 0.24124, nfactor 55, alpha 38.5, lambda 0.30, maxIterations 2   *
+rmse 0.24070, nfactor 55, alpha 39.0, lambda 0.30, maxIterations 2   *
+rmse 0.24017, nfactor 55, alpha 39.5, lambda 0.30, maxIterations 2   *
+rmse 0.23966, nfactor 55, alpha 40.0, lambda 0.30, maxIterations 2   *
+rmse 0.23915, nfactor 55, alpha 40.5, lambda 0.30, maxIterations 2   *
+rmse 0.23866, nfactor 55, alpha 41.0, lambda 0.30, maxIterations 2   *
+rmse 0.23817, nfactor 55, alpha 41.5, lambda 0.30, maxIterations 2   *
+rmse 0.23770, nfactor 55, alpha 42.0, lambda 0.30, maxIterations 2   *
+rmse 0.23724, nfactor 55, alpha 42.5, lambda 0.30, maxIterations 2   *
+rmse 0.23679, nfactor 55, alpha 43.0, lambda 0.30, maxIterations 2   *
+rmse 0.23635, nfactor 55, alpha 43.5, lambda 0.30, maxIterations 2   *
+rmse 0.23593, nfactor 55, alpha 44.0, lambda 0.30, maxIterations 2   *
+rmse 0.23551, nfactor 55, alpha 44.5, lambda 0.30, maxIterations 2   *
+rmse 0.23510, nfactor 55, alpha 45.0, lambda 0.30, maxIterations 2   *
+rmse 0.23471, nfactor 55, alpha 45.5, lambda 0.30, maxIterations 2   *
+rmse 0.23432, nfactor 55, alpha 46.0, lambda 0.30, maxIterations 2   *
+rmse 0.23395, nfactor 55, alpha 46.5, lambda 0.30, maxIterations 2   *
+rmse 0.23359, nfactor 55, alpha 47.0, lambda 0.30, maxIterations 2   *
+rmse 0.23323, nfactor 55, alpha 47.5, lambda 0.30, maxIterations 2   *
+rmse 0.23289, nfactor 55, alpha 48.0, lambda 0.30, maxIterations 2   *
+rmse 0.23256, nfactor 55, alpha 48.5, lambda 0.30, maxIterations 2   *
+rmse 0.23223, nfactor 55, alpha 49.0, lambda 0.30, maxIterations 2   *
+rmse 0.23192, nfactor 55, alpha 49.5, lambda 0.30, maxIterations 2   *
+rmse 0.23162, nfactor 55, alpha 50.0, lambda 0.30, maxIterations 2   *
+rmse 0.23133, nfactor 55, alpha 50.5, lambda 0.30, maxIterations 2   *
+rmse 0.23104, nfactor 55, alpha 51.0, lambda 0.30, maxIterations 2   *
+rmse 0.23077, nfactor 55, alpha 51.5, lambda 0.30, maxIterations 2   *
+rmse 0.23051, nfactor 55, alpha 52.0, lambda 0.30, maxIterations 2   *
+rmse 0.23025, nfactor 55, alpha 52.5, lambda 0.30, maxIterations 2   *
+rmse 0.23001, nfactor 55, alpha 53.0, lambda 0.30, maxIterations 2   *
+rmse 0.22978, nfactor 55, alpha 53.5, lambda 0.30, maxIterations 2   *
+rmse 0.22955, nfactor 55, alpha 54.0, lambda 0.30, maxIterations 2   *
+rmse 0.22933, nfactor 55, alpha 54.5, lambda 0.30, maxIterations 2   *
+rmse 0.22913, nfactor 55, alpha 55.0, lambda 0.30, maxIterations 2   *
+rmse 0.22893, nfactor 55, alpha 55.5, lambda 0.30, maxIterations 2   *
+rmse 0.22874, nfactor 55, alpha 56.0, lambda 0.30, maxIterations 2   *
+rmse 0.22856, nfactor 55, alpha 56.5, lambda 0.30, maxIterations 2   *
+rmse 0.22839, nfactor 55, alpha 57.0, lambda 0.30, maxIterations 2   *
+rmse 0.22823, nfactor 55, alpha 57.5, lambda 0.30, maxIterations 2   *
+rmse 0.22807, nfactor 55, alpha 58.0, lambda 0.30, maxIterations 2   *
+rmse 0.22793, nfactor 55, alpha 58.5, lambda 0.30, maxIterations 2   *
+rmse 0.22779, nfactor 55, alpha 59.0, lambda 0.30, maxIterations 2   *
+rmse 0.22766, nfactor 55, alpha 59.5, lambda 0.30, maxIterations 2   *
+rmse 0.22754, nfactor 55, alpha 60.0, lambda 0.30, maxIterations 2   *
+rmse 0.22743, nfactor 55, alpha 60.5, lambda 0.30, maxIterations 2   *
+rmse 0.22733, nfactor 55, alpha 61.0, lambda 0.30, maxIterations 2   *
+rmse 0.22723, nfactor 55, alpha 61.5, lambda 0.30, maxIterations 2   *
+rmse 0.22714, nfactor 55, alpha 62.0, lambda 0.30, maxIterations 2   *
+rmse 0.22706, nfactor 55, alpha 62.5, lambda 0.30, maxIterations 2   *
+rmse 0.22699, nfactor 55, alpha 63.0, lambda 0.30, maxIterations 2   *
+rmse 0.22692, nfactor 55, alpha 63.5, lambda 0.30, maxIterations 2   *
+rmse 0.22687, nfactor 55, alpha 64.0, lambda 0.30, maxIterations 2   *
+rmse 0.22682, nfactor 55, alpha 64.5, lambda 0.30, maxIterations 2   *
+rmse 0.22677, nfactor 55, alpha 65.0, lambda 0.30, maxIterations 2   *
+rmse 0.24397, nfactor 55, alpha 35.0, lambda 0.40, maxIterations 2    
+rmse 0.24343, nfactor 55, alpha 35.5, lambda 0.40, maxIterations 2    
+rmse 0.24290, nfactor 55, alpha 36.0, lambda 0.40, maxIterations 2    
+rmse 0.24238, nfactor 55, alpha 36.5, lambda 0.40, maxIterations 2    
+rmse 0.24187, nfactor 55, alpha 37.0, lambda 0.40, maxIterations 2    
+rmse 0.24137, nfactor 55, alpha 37.5, lambda 0.40, maxIterations 2    
+rmse 0.24088, nfactor 55, alpha 38.0, lambda 0.40, maxIterations 2    
+rmse 0.24040, nfactor 55, alpha 38.5, lambda 0.40, maxIterations 2    
+rmse 0.23993, nfactor 55, alpha 39.0, lambda 0.40, maxIterations 2    
+rmse 0.23946, nfactor 55, alpha 39.5, lambda 0.40, maxIterations 2    
+rmse 0.23901, nfactor 55, alpha 40.0, lambda 0.40, maxIterations 2    
+rmse 0.23857, nfactor 55, alpha 40.5, lambda 0.40, maxIterations 2    
+rmse 0.23814, nfactor 55, alpha 41.0, lambda 0.40, maxIterations 2    
+rmse 0.23771, nfactor 55, alpha 41.5, lambda 0.40, maxIterations 2    
+rmse 0.23730, nfactor 55, alpha 42.0, lambda 0.40, maxIterations 2    
+rmse 0.23689, nfactor 55, alpha 42.5, lambda 0.40, maxIterations 2    
+rmse 0.23649, nfactor 55, alpha 43.0, lambda 0.40, maxIterations 2    
+rmse 0.23611, nfactor 55, alpha 43.5, lambda 0.40, maxIterations 2    
+rmse 0.23573, nfactor 55, alpha 44.0, lambda 0.40, maxIterations 2    
+rmse 0.23535, nfactor 55, alpha 44.5, lambda 0.40, maxIterations 2    
+rmse 0.23499, nfactor 55, alpha 45.0, lambda 0.40, maxIterations 2    
+rmse 0.23464, nfactor 55, alpha 45.5, lambda 0.40, maxIterations 2    
+rmse 0.23429, nfactor 55, alpha 46.0, lambda 0.40, maxIterations 2    
+rmse 0.23395, nfactor 55, alpha 46.5, lambda 0.40, maxIterations 2    
+rmse 0.23362, nfactor 55, alpha 47.0, lambda 0.40, maxIterations 2    
+rmse 0.23330, nfactor 55, alpha 47.5, lambda 0.40, maxIterations 2    
+rmse 0.23299, nfactor 55, alpha 48.0, lambda 0.40, maxIterations 2    
+rmse 0.23268, nfactor 55, alpha 48.5, lambda 0.40, maxIterations 2    
+rmse 0.23238, nfactor 55, alpha 49.0, lambda 0.40, maxIterations 2    
+rmse 0.23209, nfactor 55, alpha 49.5, lambda 0.40, maxIterations 2    
+rmse 0.23181, nfactor 55, alpha 50.0, lambda 0.40, maxIterations 2    
+rmse 0.23154, nfactor 55, alpha 50.5, lambda 0.40, maxIterations 2    
+rmse 0.23127, nfactor 55, alpha 51.0, lambda 0.40, maxIterations 2    
+rmse 0.23101, nfactor 55, alpha 51.5, lambda 0.40, maxIterations 2    
+rmse 0.23076, nfactor 55, alpha 52.0, lambda 0.40, maxIterations 2    
+rmse 0.23051, nfactor 55, alpha 52.5, lambda 0.40, maxIterations 2    
+rmse 0.23028, nfactor 55, alpha 53.0, lambda 0.40, maxIterations 2    
+rmse 0.23005, nfactor 55, alpha 53.5, lambda 0.40, maxIterations 2    
+rmse 0.22982, nfactor 55, alpha 54.0, lambda 0.40, maxIterations 2    
+rmse 0.22961, nfactor 55, alpha 54.5, lambda 0.40, maxIterations 2    
+rmse 0.22940, nfactor 55, alpha 55.0, lambda 0.40, maxIterations 2    
+rmse 0.22920, nfactor 55, alpha 55.5, lambda 0.40, maxIterations 2    
+rmse 0.22900, nfactor 55, alpha 56.0, lambda 0.40, maxIterations 2    
+rmse 0.22882, nfactor 55, alpha 56.5, lambda 0.40, maxIterations 2    
+rmse 0.22864, nfactor 55, alpha 57.0, lambda 0.40, maxIterations 2    
+rmse 0.22846, nfactor 55, alpha 57.5, lambda 0.40, maxIterations 2    
+rmse 0.22830, nfactor 55, alpha 58.0, lambda 0.40, maxIterations 2    
+rmse 0.22814, nfactor 55, alpha 58.5, lambda 0.40, maxIterations 2    
+rmse 0.22798, nfactor 55, alpha 59.0, lambda 0.40, maxIterations 2    
+rmse 0.22784, nfactor 55, alpha 59.5, lambda 0.40, maxIterations 2    
+rmse 0.22770, nfactor 55, alpha 60.0, lambda 0.40, maxIterations 2    
+rmse 0.22756, nfactor 55, alpha 60.5, lambda 0.40, maxIterations 2    
+rmse 0.22744, nfactor 55, alpha 61.0, lambda 0.40, maxIterations 2    
+rmse 0.22732, nfactor 55, alpha 61.5, lambda 0.40, maxIterations 2    
+rmse 0.22720, nfactor 55, alpha 62.0, lambda 0.40, maxIterations 2    
+rmse 0.22709, nfactor 55, alpha 62.5, lambda 0.40, maxIterations 2    
+rmse 0.22699, nfactor 55, alpha 63.0, lambda 0.40, maxIterations 2    
+rmse 0.22690, nfactor 55, alpha 63.5, lambda 0.40, maxIterations 2    
+rmse 0.22681, nfactor 55, alpha 64.0, lambda 0.40, maxIterations 2    
+rmse 0.22672, nfactor 55, alpha 64.5, lambda 0.40, maxIterations 2   *
+rmse 0.22664, nfactor 55, alpha 65.0, lambda 0.40, maxIterations 2   *
+rmse 0.24223, nfactor 55, alpha 35.0, lambda 0.50, maxIterations 2    
+rmse 0.24175, nfactor 55, alpha 35.5, lambda 0.50, maxIterations 2    
+rmse 0.24128, nfactor 55, alpha 36.0, lambda 0.50, maxIterations 2    
+rmse 0.24081, nfactor 55, alpha 36.5, lambda 0.50, maxIterations 2    
+rmse 0.24036, nfactor 55, alpha 37.0, lambda 0.50, maxIterations 2    
+rmse 0.23991, nfactor 55, alpha 37.5, lambda 0.50, maxIterations 2    
+rmse 0.23948, nfactor 55, alpha 38.0, lambda 0.50, maxIterations 2    
+rmse 0.23905, nfactor 55, alpha 38.5, lambda 0.50, maxIterations 2    
+rmse 0.23863, nfactor 55, alpha 39.0, lambda 0.50, maxIterations 2    
+rmse 0.23822, nfactor 55, alpha 39.5, lambda 0.50, maxIterations 2    
+rmse 0.23782, nfactor 55, alpha 40.0, lambda 0.50, maxIterations 2    
+rmse 0.23742, nfactor 55, alpha 40.5, lambda 0.50, maxIterations 2    
+rmse 0.23704, nfactor 55, alpha 41.0, lambda 0.50, maxIterations 2    
+rmse 0.23666, nfactor 55, alpha 41.5, lambda 0.50, maxIterations 2    
+rmse 0.23629, nfactor 55, alpha 42.0, lambda 0.50, maxIterations 2    
+rmse 0.23593, nfactor 55, alpha 42.5, lambda 0.50, maxIterations 2    
+rmse 0.23558, nfactor 55, alpha 43.0, lambda 0.50, maxIterations 2    
+rmse 0.23523, nfactor 55, alpha 43.5, lambda 0.50, maxIterations 2    
+rmse 0.23489, nfactor 55, alpha 44.0, lambda 0.50, maxIterations 2    
+rmse 0.23456, nfactor 55, alpha 44.5, lambda 0.50, maxIterations 2    
+rmse 0.23423, nfactor 55, alpha 45.0, lambda 0.50, maxIterations 2    
+rmse 0.23392, nfactor 55, alpha 45.5, lambda 0.50, maxIterations 2    
+rmse 0.23361, nfactor 55, alpha 46.0, lambda 0.50, maxIterations 2    
+rmse 0.23330, nfactor 55, alpha 46.5, lambda 0.50, maxIterations 2    
+rmse 0.23301, nfactor 55, alpha 47.0, lambda 0.50, maxIterations 2    
+rmse 0.23272, nfactor 55, alpha 47.5, lambda 0.50, maxIterations 2    
+rmse 0.23244, nfactor 55, alpha 48.0, lambda 0.50, maxIterations 2    
+rmse 0.23216, nfactor 55, alpha 48.5, lambda 0.50, maxIterations 2    
+rmse 0.23189, nfactor 55, alpha 49.0, lambda 0.50, maxIterations 2    
+rmse 0.23163, nfactor 55, alpha 49.5, lambda 0.50, maxIterations 2    
+rmse 0.23137, nfactor 55, alpha 50.0, lambda 0.50, maxIterations 2    
+rmse 0.23112, nfactor 55, alpha 50.5, lambda 0.50, maxIterations 2    
+rmse 0.23088, nfactor 55, alpha 51.0, lambda 0.50, maxIterations 2    
+rmse 0.23064, nfactor 55, alpha 51.5, lambda 0.50, maxIterations 2    
+rmse 0.23041, nfactor 55, alpha 52.0, lambda 0.50, maxIterations 2    
+rmse 0.23019, nfactor 55, alpha 52.5, lambda 0.50, maxIterations 2    
+rmse 0.22997, nfactor 55, alpha 53.0, lambda 0.50, maxIterations 2    
+rmse 0.22976, nfactor 55, alpha 53.5, lambda 0.50, maxIterations 2    
+rmse 0.22955, nfactor 55, alpha 54.0, lambda 0.50, maxIterations 2    
+rmse 0.22936, nfactor 55, alpha 54.5, lambda 0.50, maxIterations 2    
+rmse 0.22916, nfactor 55, alpha 55.0, lambda 0.50, maxIterations 2    
+rmse 0.22897, nfactor 55, alpha 55.5, lambda 0.50, maxIterations 2    
+rmse 0.22879, nfactor 55, alpha 56.0, lambda 0.50, maxIterations 2    
+rmse 0.22861, nfactor 55, alpha 56.5, lambda 0.50, maxIterations 2    
+rmse 0.22844, nfactor 55, alpha 57.0, lambda 0.50, maxIterations 2    
+rmse 0.22828, nfactor 55, alpha 57.5, lambda 0.50, maxIterations 2    
+rmse 0.22812, nfactor 55, alpha 58.0, lambda 0.50, maxIterations 2    
+rmse 0.22797, nfactor 55, alpha 58.5, lambda 0.50, maxIterations 2    
+rmse 0.22782, nfactor 55, alpha 59.0, lambda 0.50, maxIterations 2    
+rmse 0.22767, nfactor 55, alpha 59.5, lambda 0.50, maxIterations 2    
+rmse 0.22754, nfactor 55, alpha 60.0, lambda 0.50, maxIterations 2    
+rmse 0.22740, nfactor 55, alpha 60.5, lambda 0.50, maxIterations 2    
+rmse 0.22728, nfactor 55, alpha 61.0, lambda 0.50, maxIterations 2    
+rmse 0.22716, nfactor 55, alpha 61.5, lambda 0.50, maxIterations 2    
+rmse 0.22704, nfactor 55, alpha 62.0, lambda 0.50, maxIterations 2    
+rmse 0.22693, nfactor 55, alpha 62.5, lambda 0.50, maxIterations 2    
+rmse 0.22682, nfactor 55, alpha 63.0, lambda 0.50, maxIterations 2    
+rmse 0.22672, nfactor 55, alpha 63.5, lambda 0.50, maxIterations 2    
+rmse 0.22662, nfactor 55, alpha 64.0, lambda 0.50, maxIterations 2   *
+rmse 0.22653, nfactor 55, alpha 64.5, lambda 0.50, maxIterations 2   *
+rmse 0.22645, nfactor 55, alpha 65.0, lambda 0.50, maxIterations 2   *
+rmse 0.23723, nfactor 75, alpha 35.0, lambda 0.30, maxIterations 2    
+rmse 0.23680, nfactor 75, alpha 35.5, lambda 0.30, maxIterations 2    
+rmse 0.23639, nfactor 75, alpha 36.0, lambda 0.30, maxIterations 2    
+rmse 0.23599, nfactor 75, alpha 36.5, lambda 0.30, maxIterations 2    
+rmse 0.23559, nfactor 75, alpha 37.0, lambda 0.30, maxIterations 2    
+rmse 0.23521, nfactor 75, alpha 37.5, lambda 0.30, maxIterations 2    
+rmse 0.23484, nfactor 75, alpha 38.0, lambda 0.30, maxIterations 2    
+rmse 0.23447, nfactor 75, alpha 38.5, lambda 0.30, maxIterations 2    
+rmse 0.23412, nfactor 75, alpha 39.0, lambda 0.30, maxIterations 2    
+rmse 0.23378, nfactor 75, alpha 39.5, lambda 0.30, maxIterations 2    
+rmse 0.23344, nfactor 75, alpha 40.0, lambda 0.30, maxIterations 2    
+rmse 0.23312, nfactor 75, alpha 40.5, lambda 0.30, maxIterations 2    
+rmse 0.23281, nfactor 75, alpha 41.0, lambda 0.30, maxIterations 2    
+rmse 0.23250, nfactor 75, alpha 41.5, lambda 0.30, maxIterations 2    
+rmse 0.23221, nfactor 75, alpha 42.0, lambda 0.30, maxIterations 2    
+rmse 0.23193, nfactor 75, alpha 42.5, lambda 0.30, maxIterations 2    
+rmse 0.23165, nfactor 75, alpha 43.0, lambda 0.30, maxIterations 2    
+rmse 0.23139, nfactor 75, alpha 43.5, lambda 0.30, maxIterations 2    
+rmse 0.23113, nfactor 75, alpha 44.0, lambda 0.30, maxIterations 2    
+rmse 0.23089, nfactor 75, alpha 44.5, lambda 0.30, maxIterations 2    
+rmse 0.23065, nfactor 75, alpha 45.0, lambda 0.30, maxIterations 2    
+rmse 0.23042, nfactor 75, alpha 45.5, lambda 0.30, maxIterations 2    
+rmse 0.23021, nfactor 75, alpha 46.0, lambda 0.30, maxIterations 2    
+rmse 0.23000, nfactor 75, alpha 46.5, lambda 0.30, maxIterations 2    
+rmse 0.22980, nfactor 75, alpha 47.0, lambda 0.30, maxIterations 2    
+rmse 0.22961, nfactor 75, alpha 47.5, lambda 0.30, maxIterations 2    
+rmse 0.22943, nfactor 75, alpha 48.0, lambda 0.30, maxIterations 2    
+rmse 0.22926, nfactor 75, alpha 48.5, lambda 0.30, maxIterations 2    
+rmse 0.22910, nfactor 75, alpha 49.0, lambda 0.30, maxIterations 2    
+rmse 0.22895, nfactor 75, alpha 49.5, lambda 0.30, maxIterations 2    
+rmse 0.22880, nfactor 75, alpha 50.0, lambda 0.30, maxIterations 2    
+rmse 0.22867, nfactor 75, alpha 50.5, lambda 0.30, maxIterations 2    
+rmse 0.22854, nfactor 75, alpha 51.0, lambda 0.30, maxIterations 2    
+rmse 0.22842, nfactor 75, alpha 51.5, lambda 0.30, maxIterations 2    
+rmse 0.22832, nfactor 75, alpha 52.0, lambda 0.30, maxIterations 2    
+rmse 0.22822, nfactor 75, alpha 52.5, lambda 0.30, maxIterations 2    
+rmse 0.22813, nfactor 75, alpha 53.0, lambda 0.30, maxIterations 2    
+rmse 0.22804, nfactor 75, alpha 53.5, lambda 0.30, maxIterations 2    
+rmse 0.22797, nfactor 75, alpha 54.0, lambda 0.30, maxIterations 2    
+rmse 0.22790, nfactor 75, alpha 54.5, lambda 0.30, maxIterations 2    
+rmse 0.22785, nfactor 75, alpha 55.0, lambda 0.30, maxIterations 2    
+rmse 0.22780, nfactor 75, alpha 55.5, lambda 0.30, maxIterations 2    
+rmse 0.22776, nfactor 75, alpha 56.0, lambda 0.30, maxIterations 2    
+rmse 0.22772, nfactor 75, alpha 56.5, lambda 0.30, maxIterations 2    
+rmse 0.22770, nfactor 75, alpha 57.0, lambda 0.30, maxIterations 2    
+rmse 0.22768, nfactor 75, alpha 57.5, lambda 0.30, maxIterations 2    
+rmse 0.22767, nfactor 75, alpha 58.0, lambda 0.30, maxIterations 2    
+rmse 0.22767, nfactor 75, alpha 58.5, lambda 0.30, maxIterations 2    
+rmse 0.22768, nfactor 75, alpha 59.0, lambda 0.30, maxIterations 2    
+rmse 0.22769, nfactor 75, alpha 59.5, lambda 0.30, maxIterations 2    
+rmse 0.22772, nfactor 75, alpha 60.0, lambda 0.30, maxIterations 2    
+rmse 0.22775, nfactor 75, alpha 60.5, lambda 0.30, maxIterations 2    
+rmse 0.22778, nfactor 75, alpha 61.0, lambda 0.30, maxIterations 2    
+rmse 0.22783, nfactor 75, alpha 61.5, lambda 0.30, maxIterations 2    
+rmse 0.22788, nfactor 75, alpha 62.0, lambda 0.30, maxIterations 2    
+rmse 0.22793, nfactor 75, alpha 62.5, lambda 0.30, maxIterations 2    
+rmse 0.22800, nfactor 75, alpha 63.0, lambda 0.30, maxIterations 2    
+rmse 0.22807, nfactor 75, alpha 63.5, lambda 0.30, maxIterations 2    
+rmse 0.22815, nfactor 75, alpha 64.0, lambda 0.30, maxIterations 2    
+rmse 0.22823, nfactor 75, alpha 64.5, lambda 0.30, maxIterations 2    
+rmse 0.22832, nfactor 75, alpha 65.0, lambda 0.30, maxIterations 2    
+rmse 0.23621, nfactor 75, alpha 35.0, lambda 0.40, maxIterations 2    
+rmse 0.23587, nfactor 75, alpha 35.5, lambda 0.40, maxIterations 2    
+rmse 0.23553, nfactor 75, alpha 36.0, lambda 0.40, maxIterations 2    
+rmse 0.23521, nfactor 75, alpha 36.5, lambda 0.40, maxIterations 2    
+rmse 0.23489, nfactor 75, alpha 37.0, lambda 0.40, maxIterations 2    
+rmse 0.23458, nfactor 75, alpha 37.5, lambda 0.40, maxIterations 2    
+rmse 0.23427, nfactor 75, alpha 38.0, lambda 0.40, maxIterations 2    
+rmse 0.23397, nfactor 75, alpha 38.5, lambda 0.40, maxIterations 2    
+rmse 0.23369, nfactor 75, alpha 39.0, lambda 0.40, maxIterations 2    
+rmse 0.23340, nfactor 75, alpha 39.5, lambda 0.40, maxIterations 2    
+rmse 0.23313, nfactor 75, alpha 40.0, lambda 0.40, maxIterations 2    
+rmse 0.23286, nfactor 75, alpha 40.5, lambda 0.40, maxIterations 2    
+rmse 0.23260, nfactor 75, alpha 41.0, lambda 0.40, maxIterations 2    
+rmse 0.23235, nfactor 75, alpha 41.5, lambda 0.40, maxIterations 2    
+rmse 0.23210, nfactor 75, alpha 42.0, lambda 0.40, maxIterations 2    
+rmse 0.23186, nfactor 75, alpha 42.5, lambda 0.40, maxIterations 2    
+rmse 0.23163, nfactor 75, alpha 43.0, lambda 0.40, maxIterations 2    
+rmse 0.23140, nfactor 75, alpha 43.5, lambda 0.40, maxIterations 2    
+rmse 0.23119, nfactor 75, alpha 44.0, lambda 0.40, maxIterations 2    
+rmse 0.23097, nfactor 75, alpha 44.5, lambda 0.40, maxIterations 2    
+rmse 0.23077, nfactor 75, alpha 45.0, lambda 0.40, maxIterations 2    
+rmse 0.23057, nfactor 75, alpha 45.5, lambda 0.40, maxIterations 2    
+rmse 0.23038, nfactor 75, alpha 46.0, lambda 0.40, maxIterations 2    
+rmse 0.23019, nfactor 75, alpha 46.5, lambda 0.40, maxIterations 2    
+rmse 0.23001, nfactor 75, alpha 47.0, lambda 0.40, maxIterations 2    
+rmse 0.22984, nfactor 75, alpha 47.5, lambda 0.40, maxIterations 2    
+rmse 0.22967, nfactor 75, alpha 48.0, lambda 0.40, maxIterations 2    
+rmse 0.22951, nfactor 75, alpha 48.5, lambda 0.40, maxIterations 2    
+rmse 0.22935, nfactor 75, alpha 49.0, lambda 0.40, maxIterations 2    
+rmse 0.22921, nfactor 75, alpha 49.5, lambda 0.40, maxIterations 2    
+rmse 0.22907, nfactor 75, alpha 50.0, lambda 0.40, maxIterations 2    
+rmse 0.22893, nfactor 75, alpha 50.5, lambda 0.40, maxIterations 2    
+rmse 0.22880, nfactor 75, alpha 51.0, lambda 0.40, maxIterations 2    
+rmse 0.22868, nfactor 75, alpha 51.5, lambda 0.40, maxIterations 2    
+rmse 0.22856, nfactor 75, alpha 52.0, lambda 0.40, maxIterations 2    
+rmse 0.22845, nfactor 75, alpha 52.5, lambda 0.40, maxIterations 2    
+rmse 0.22835, nfactor 75, alpha 53.0, lambda 0.40, maxIterations 2    
+rmse 0.22825, nfactor 75, alpha 53.5, lambda 0.40, maxIterations 2    
+rmse 0.22816, nfactor 75, alpha 54.0, lambda 0.40, maxIterations 2    
+rmse 0.22807, nfactor 75, alpha 54.5, lambda 0.40, maxIterations 2    
+rmse 0.22799, nfactor 75, alpha 55.0, lambda 0.40, maxIterations 2    
+rmse 0.22792, nfactor 75, alpha 55.5, lambda 0.40, maxIterations 2    
+rmse 0.22785, nfactor 75, alpha 56.0, lambda 0.40, maxIterations 2    
+rmse 0.22779, nfactor 75, alpha 56.5, lambda 0.40, maxIterations 2    
+rmse 0.22773, nfactor 75, alpha 57.0, lambda 0.40, maxIterations 2    
+rmse 0.22768, nfactor 75, alpha 57.5, lambda 0.40, maxIterations 2    
+rmse 0.22764, nfactor 75, alpha 58.0, lambda 0.40, maxIterations 2    
+rmse 0.22760, nfactor 75, alpha 58.5, lambda 0.40, maxIterations 2    
+rmse 0.22757, nfactor 75, alpha 59.0, lambda 0.40, maxIterations 2    
+rmse 0.22754, nfactor 75, alpha 59.5, lambda 0.40, maxIterations 2    
+rmse 0.22752, nfactor 75, alpha 60.0, lambda 0.40, maxIterations 2    
+rmse 0.22751, nfactor 75, alpha 60.5, lambda 0.40, maxIterations 2    
+rmse 0.22750, nfactor 75, alpha 61.0, lambda 0.40, maxIterations 2    
+rmse 0.22749, nfactor 75, alpha 61.5, lambda 0.40, maxIterations 2    
+rmse 0.22750, nfactor 75, alpha 62.0, lambda 0.40, maxIterations 2    
+rmse 0.22750, nfactor 75, alpha 62.5, lambda 0.40, maxIterations 2    
+rmse 0.22752, nfactor 75, alpha 63.0, lambda 0.40, maxIterations 2    
+rmse 0.22753, nfactor 75, alpha 63.5, lambda 0.40, maxIterations 2    
+rmse 0.22756, nfactor 75, alpha 64.0, lambda 0.40, maxIterations 2    
+rmse 0.22759, nfactor 75, alpha 64.5, lambda 0.40, maxIterations 2    
+rmse 0.22762, nfactor 75, alpha 65.0, lambda 0.40, maxIterations 2    
+rmse 0.23468, nfactor 75, alpha 35.0, lambda 0.50, maxIterations 2    
+rmse 0.23440, nfactor 75, alpha 35.5, lambda 0.50, maxIterations 2    
+rmse 0.23412, nfactor 75, alpha 36.0, lambda 0.50, maxIterations 2    
+rmse 0.23386, nfactor 75, alpha 36.5, lambda 0.50, maxIterations 2    
+rmse 0.23360, nfactor 75, alpha 37.0, lambda 0.50, maxIterations 2    
+rmse 0.23334, nfactor 75, alpha 37.5, lambda 0.50, maxIterations 2    
+rmse 0.23310, nfactor 75, alpha 38.0, lambda 0.50, maxIterations 2    
+rmse 0.23286, nfactor 75, alpha 38.5, lambda 0.50, maxIterations 2    
+rmse 0.23262, nfactor 75, alpha 39.0, lambda 0.50, maxIterations 2    
+rmse 0.23239, nfactor 75, alpha 39.5, lambda 0.50, maxIterations 2    
+rmse 0.23217, nfactor 75, alpha 40.0, lambda 0.50, maxIterations 2    
+rmse 0.23196, nfactor 75, alpha 40.5, lambda 0.50, maxIterations 2    
+rmse 0.23174, nfactor 75, alpha 41.0, lambda 0.50, maxIterations 2    
+rmse 0.23154, nfactor 75, alpha 41.5, lambda 0.50, maxIterations 2    
+rmse 0.23134, nfactor 75, alpha 42.0, lambda 0.50, maxIterations 2    
+rmse 0.23115, nfactor 75, alpha 42.5, lambda 0.50, maxIterations 2    
+rmse 0.23096, nfactor 75, alpha 43.0, lambda 0.50, maxIterations 2    
+rmse 0.23077, nfactor 75, alpha 43.5, lambda 0.50, maxIterations 2    
+rmse 0.23060, nfactor 75, alpha 44.0, lambda 0.50, maxIterations 2    
+rmse 0.23042, nfactor 75, alpha 44.5, lambda 0.50, maxIterations 2    
+rmse 0.23025, nfactor 75, alpha 45.0, lambda 0.50, maxIterations 2    
+rmse 0.23009, nfactor 75, alpha 45.5, lambda 0.50, maxIterations 2    
+rmse 0.22993, nfactor 75, alpha 46.0, lambda 0.50, maxIterations 2    
+rmse 0.22978, nfactor 75, alpha 46.5, lambda 0.50, maxIterations 2    
+rmse 0.22963, nfactor 75, alpha 47.0, lambda 0.50, maxIterations 2    
+rmse 0.22949, nfactor 75, alpha 47.5, lambda 0.50, maxIterations 2    
+rmse 0.22935, nfactor 75, alpha 48.0, lambda 0.50, maxIterations 2    
+rmse 0.22922, nfactor 75, alpha 48.5, lambda 0.50, maxIterations 2    
+rmse 0.22909, nfactor 75, alpha 49.0, lambda 0.50, maxIterations 2    
+rmse 0.22896, nfactor 75, alpha 49.5, lambda 0.50, maxIterations 2    
+rmse 0.22884, nfactor 75, alpha 50.0, lambda 0.50, maxIterations 2    
+rmse 0.22873, nfactor 75, alpha 50.5, lambda 0.50, maxIterations 2    
+rmse 0.22862, nfactor 75, alpha 51.0, lambda 0.50, maxIterations 2    
+rmse 0.22851, nfactor 75, alpha 51.5, lambda 0.50, maxIterations 2    
+rmse 0.22841, nfactor 75, alpha 52.0, lambda 0.50, maxIterations 2    
+rmse 0.22831, nfactor 75, alpha 52.5, lambda 0.50, maxIterations 2    
+rmse 0.22822, nfactor 75, alpha 53.0, lambda 0.50, maxIterations 2    
+rmse 0.22813, nfactor 75, alpha 53.5, lambda 0.50, maxIterations 2    
+rmse 0.22805, nfactor 75, alpha 54.0, lambda 0.50, maxIterations 2    
+rmse 0.22797, nfactor 75, alpha 54.5, lambda 0.50, maxIterations 2    
+rmse 0.22790, nfactor 75, alpha 55.0, lambda 0.50, maxIterations 2    
+rmse 0.22783, nfactor 75, alpha 55.5, lambda 0.50, maxIterations 2    
+rmse 0.22776, nfactor 75, alpha 56.0, lambda 0.50, maxIterations 2    
+rmse 0.22770, nfactor 75, alpha 56.5, lambda 0.50, maxIterations 2    
+rmse 0.22764, nfactor 75, alpha 57.0, lambda 0.50, maxIterations 2    
+rmse 0.22759, nfactor 75, alpha 57.5, lambda 0.50, maxIterations 2    
+rmse 0.22754, nfactor 75, alpha 58.0, lambda 0.50, maxIterations 2    
+rmse 0.22750, nfactor 75, alpha 58.5, lambda 0.50, maxIterations 2    
+rmse 0.22746, nfactor 75, alpha 59.0, lambda 0.50, maxIterations 2    
+rmse 0.22743, nfactor 75, alpha 59.5, lambda 0.50, maxIterations 2    
+rmse 0.22740, nfactor 75, alpha 60.0, lambda 0.50, maxIterations 2    
+rmse 0.22737, nfactor 75, alpha 60.5, lambda 0.50, maxIterations 2    
+rmse 0.22735, nfactor 75, alpha 61.0, lambda 0.50, maxIterations 2    
+rmse 0.22733, nfactor 75, alpha 61.5, lambda 0.50, maxIterations 2    
+rmse 0.22732, nfactor 75, alpha 62.0, lambda 0.50, maxIterations 2    
+rmse 0.22731, nfactor 75, alpha 62.5, lambda 0.50, maxIterations 2    
+rmse 0.22730, nfactor 75, alpha 63.0, lambda 0.50, maxIterations 2    
+rmse 0.22730, nfactor 75, alpha 63.5, lambda 0.50, maxIterations 2    
+rmse 0.22731, nfactor 75, alpha 64.0, lambda 0.50, maxIterations 2    
+rmse 0.22732, nfactor 75, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22733, nfactor 75, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.23533, nfactor 95, alpha 35.0, lambda 0.30, maxIterations 2    
+rmse 0.23501, nfactor 95, alpha 35.5, lambda 0.30, maxIterations 2    
+rmse 0.23469, nfactor 95, alpha 36.0, lambda 0.30, maxIterations 2    
+rmse 0.23438, nfactor 95, alpha 36.5, lambda 0.30, maxIterations 2    
+rmse 0.23408, nfactor 95, alpha 37.0, lambda 0.30, maxIterations 2    
+rmse 0.23380, nfactor 95, alpha 37.5, lambda 0.30, maxIterations 2    
+rmse 0.23352, nfactor 95, alpha 38.0, lambda 0.30, maxIterations 2    
+rmse 0.23324, nfactor 95, alpha 38.5, lambda 0.30, maxIterations 2    
+rmse 0.23298, nfactor 95, alpha 39.0, lambda 0.30, maxIterations 2    
+rmse 0.23273, nfactor 95, alpha 39.5, lambda 0.30, maxIterations 2    
+rmse 0.23249, nfactor 95, alpha 40.0, lambda 0.30, maxIterations 2    
+rmse 0.23225, nfactor 95, alpha 40.5, lambda 0.30, maxIterations 2    
+rmse 0.23203, nfactor 95, alpha 41.0, lambda 0.30, maxIterations 2    
+rmse 0.23181, nfactor 95, alpha 41.5, lambda 0.30, maxIterations 2    
+rmse 0.23161, nfactor 95, alpha 42.0, lambda 0.30, maxIterations 2    
+rmse 0.23141, nfactor 95, alpha 42.5, lambda 0.30, maxIterations 2    
+rmse 0.23122, nfactor 95, alpha 43.0, lambda 0.30, maxIterations 2    
+rmse 0.23104, nfactor 95, alpha 43.5, lambda 0.30, maxIterations 2    
+rmse 0.23088, nfactor 95, alpha 44.0, lambda 0.30, maxIterations 2    
+rmse 0.23072, nfactor 95, alpha 44.5, lambda 0.30, maxIterations 2    
+rmse 0.23057, nfactor 95, alpha 45.0, lambda 0.30, maxIterations 2    
+rmse 0.23043, nfactor 95, alpha 45.5, lambda 0.30, maxIterations 2    
+rmse 0.23030, nfactor 95, alpha 46.0, lambda 0.30, maxIterations 2    
+rmse 0.23018, nfactor 95, alpha 46.5, lambda 0.30, maxIterations 2    
+rmse 0.23006, nfactor 95, alpha 47.0, lambda 0.30, maxIterations 2    
+rmse 0.22996, nfactor 95, alpha 47.5, lambda 0.30, maxIterations 2    
+rmse 0.22987, nfactor 95, alpha 48.0, lambda 0.30, maxIterations 2    
+rmse 0.22978, nfactor 95, alpha 48.5, lambda 0.30, maxIterations 2    
+rmse 0.22971, nfactor 95, alpha 49.0, lambda 0.30, maxIterations 2    
+rmse 0.22965, nfactor 95, alpha 49.5, lambda 0.30, maxIterations 2    
+rmse 0.22959, nfactor 95, alpha 50.0, lambda 0.30, maxIterations 2    
+rmse 0.22954, nfactor 95, alpha 50.5, lambda 0.30, maxIterations 2    
+rmse 0.22951, nfactor 95, alpha 51.0, lambda 0.30, maxIterations 2    
+rmse 0.22948, nfactor 95, alpha 51.5, lambda 0.30, maxIterations 2    
+rmse 0.22946, nfactor 95, alpha 52.0, lambda 0.30, maxIterations 2    
+rmse 0.22945, nfactor 95, alpha 52.5, lambda 0.30, maxIterations 2    
+rmse 0.22944, nfactor 95, alpha 53.0, lambda 0.30, maxIterations 2    
+rmse 0.22945, nfactor 95, alpha 53.5, lambda 0.30, maxIterations 2    
+rmse 0.22947, nfactor 95, alpha 54.0, lambda 0.30, maxIterations 2    
+rmse 0.22949, nfactor 95, alpha 54.5, lambda 0.30, maxIterations 2    
+rmse 0.22952, nfactor 95, alpha 55.0, lambda 0.30, maxIterations 2    
+rmse 0.22957, nfactor 95, alpha 55.5, lambda 0.30, maxIterations 2    
+rmse 0.22962, nfactor 95, alpha 56.0, lambda 0.30, maxIterations 2    
+rmse 0.22967, nfactor 95, alpha 56.5, lambda 0.30, maxIterations 2    
+rmse 0.22974, nfactor 95, alpha 57.0, lambda 0.30, maxIterations 2    
+rmse 0.22981, nfactor 95, alpha 57.5, lambda 0.30, maxIterations 2    
+rmse 0.22990, nfactor 95, alpha 58.0, lambda 0.30, maxIterations 2    
+rmse 0.22999, nfactor 95, alpha 58.5, lambda 0.30, maxIterations 2    
+rmse 0.23008, nfactor 95, alpha 59.0, lambda 0.30, maxIterations 2    
+rmse 0.23019, nfactor 95, alpha 59.5, lambda 0.30, maxIterations 2    
+rmse 0.23030, nfactor 95, alpha 60.0, lambda 0.30, maxIterations 2    
+rmse 0.23042, nfactor 95, alpha 60.5, lambda 0.30, maxIterations 2    
+rmse 0.23055, nfactor 95, alpha 61.0, lambda 0.30, maxIterations 2    
+rmse 0.23068, nfactor 95, alpha 61.5, lambda 0.30, maxIterations 2    
+rmse 0.23083, nfactor 95, alpha 62.0, lambda 0.30, maxIterations 2    
+rmse 0.23097, nfactor 95, alpha 62.5, lambda 0.30, maxIterations 2    
+rmse 0.23113, nfactor 95, alpha 63.0, lambda 0.30, maxIterations 2    
+rmse 0.23129, nfactor 95, alpha 63.5, lambda 0.30, maxIterations 2    
+rmse 0.23146, nfactor 95, alpha 64.0, lambda 0.30, maxIterations 2    
+rmse 0.23164, nfactor 95, alpha 64.5, lambda 0.30, maxIterations 2    
+rmse 0.23182, nfactor 95, alpha 65.0, lambda 0.30, maxIterations 2    
+rmse 0.23500, nfactor 95, alpha 35.0, lambda 0.40, maxIterations 2    
+rmse 0.23475, nfactor 95, alpha 35.5, lambda 0.40, maxIterations 2    
+rmse 0.23451, nfactor 95, alpha 36.0, lambda 0.40, maxIterations 2    
+rmse 0.23427, nfactor 95, alpha 36.5, lambda 0.40, maxIterations 2    
+rmse 0.23404, nfactor 95, alpha 37.0, lambda 0.40, maxIterations 2    
+rmse 0.23381, nfactor 95, alpha 37.5, lambda 0.40, maxIterations 2    
+rmse 0.23359, nfactor 95, alpha 38.0, lambda 0.40, maxIterations 2    
+rmse 0.23337, nfactor 95, alpha 38.5, lambda 0.40, maxIterations 2    
+rmse 0.23316, nfactor 95, alpha 39.0, lambda 0.40, maxIterations 2    
+rmse 0.23296, nfactor 95, alpha 39.5, lambda 0.40, maxIterations 2    
+rmse 0.23276, nfactor 95, alpha 40.0, lambda 0.40, maxIterations 2    
+rmse 0.23256, nfactor 95, alpha 40.5, lambda 0.40, maxIterations 2    
+rmse 0.23238, nfactor 95, alpha 41.0, lambda 0.40, maxIterations 2    
+rmse 0.23220, nfactor 95, alpha 41.5, lambda 0.40, maxIterations 2    
+rmse 0.23202, nfactor 95, alpha 42.0, lambda 0.40, maxIterations 2    
+rmse 0.23185, nfactor 95, alpha 42.5, lambda 0.40, maxIterations 2    
+rmse 0.23169, nfactor 95, alpha 43.0, lambda 0.40, maxIterations 2    
+rmse 0.23153, nfactor 95, alpha 43.5, lambda 0.40, maxIterations 2    
+rmse 0.23137, nfactor 95, alpha 44.0, lambda 0.40, maxIterations 2    
+rmse 0.23123, nfactor 95, alpha 44.5, lambda 0.40, maxIterations 2    
+rmse 0.23109, nfactor 95, alpha 45.0, lambda 0.40, maxIterations 2    
+rmse 0.23095, nfactor 95, alpha 45.5, lambda 0.40, maxIterations 2    
+rmse 0.23083, nfactor 95, alpha 46.0, lambda 0.40, maxIterations 2    
+rmse 0.23070, nfactor 95, alpha 46.5, lambda 0.40, maxIterations 2    
+rmse 0.23059, nfactor 95, alpha 47.0, lambda 0.40, maxIterations 2    
+rmse 0.23048, nfactor 95, alpha 47.5, lambda 0.40, maxIterations 2    
+rmse 0.23038, nfactor 95, alpha 48.0, lambda 0.40, maxIterations 2    
+rmse 0.23028, nfactor 95, alpha 48.5, lambda 0.40, maxIterations 2    
+rmse 0.23019, nfactor 95, alpha 49.0, lambda 0.40, maxIterations 2    
+rmse 0.23010, nfactor 95, alpha 49.5, lambda 0.40, maxIterations 2    
+rmse 0.23003, nfactor 95, alpha 50.0, lambda 0.40, maxIterations 2    
+rmse 0.22995, nfactor 95, alpha 50.5, lambda 0.40, maxIterations 2    
+rmse 0.22989, nfactor 95, alpha 51.0, lambda 0.40, maxIterations 2    
+rmse 0.22983, nfactor 95, alpha 51.5, lambda 0.40, maxIterations 2    
+rmse 0.22978, nfactor 95, alpha 52.0, lambda 0.40, maxIterations 2    
+rmse 0.22973, nfactor 95, alpha 52.5, lambda 0.40, maxIterations 2    
+rmse 0.22969, nfactor 95, alpha 53.0, lambda 0.40, maxIterations 2    
+rmse 0.22966, nfactor 95, alpha 53.5, lambda 0.40, maxIterations 2    
+rmse 0.22963, nfactor 95, alpha 54.0, lambda 0.40, maxIterations 2    
+rmse 0.22961, nfactor 95, alpha 54.5, lambda 0.40, maxIterations 2    
+rmse 0.22959, nfactor 95, alpha 55.0, lambda 0.40, maxIterations 2    
+rmse 0.22958, nfactor 95, alpha 55.5, lambda 0.40, maxIterations 2    
+rmse 0.22958, nfactor 95, alpha 56.0, lambda 0.40, maxIterations 2    
+rmse 0.22958, nfactor 95, alpha 56.5, lambda 0.40, maxIterations 2    
+rmse 0.22959, nfactor 95, alpha 57.0, lambda 0.40, maxIterations 2    
+rmse 0.22961, nfactor 95, alpha 57.5, lambda 0.40, maxIterations 2    
+rmse 0.22963, nfactor 95, alpha 58.0, lambda 0.40, maxIterations 2    
+rmse 0.22966, nfactor 95, alpha 58.5, lambda 0.40, maxIterations 2    
+rmse 0.22970, nfactor 95, alpha 59.0, lambda 0.40, maxIterations 2    
+rmse 0.22974, nfactor 95, alpha 59.5, lambda 0.40, maxIterations 2    
+rmse 0.22978, nfactor 95, alpha 60.0, lambda 0.40, maxIterations 2    
+rmse 0.22984, nfactor 95, alpha 60.5, lambda 0.40, maxIterations 2    
+rmse 0.22990, nfactor 95, alpha 61.0, lambda 0.40, maxIterations 2    
+rmse 0.22996, nfactor 95, alpha 61.5, lambda 0.40, maxIterations 2    
+rmse 0.23003, nfactor 95, alpha 62.0, lambda 0.40, maxIterations 2    
+rmse 0.23011, nfactor 95, alpha 62.5, lambda 0.40, maxIterations 2    
+rmse 0.23019, nfactor 95, alpha 63.0, lambda 0.40, maxIterations 2    
+rmse 0.23028, nfactor 95, alpha 63.5, lambda 0.40, maxIterations 2    
+rmse 0.23037, nfactor 95, alpha 64.0, lambda 0.40, maxIterations 2    
+rmse 0.23047, nfactor 95, alpha 64.5, lambda 0.40, maxIterations 2    
+rmse 0.23057, nfactor 95, alpha 65.0, lambda 0.40, maxIterations 2    
+rmse 0.23394, nfactor 95, alpha 35.0, lambda 0.50, maxIterations 2    
+rmse 0.23376, nfactor 95, alpha 35.5, lambda 0.50, maxIterations 2    
+rmse 0.23359, nfactor 95, alpha 36.0, lambda 0.50, maxIterations 2    
+rmse 0.23341, nfactor 95, alpha 36.5, lambda 0.50, maxIterations 2    
+rmse 0.23324, nfactor 95, alpha 37.0, lambda 0.50, maxIterations 2    
+rmse 0.23308, nfactor 95, alpha 37.5, lambda 0.50, maxIterations 2    
+rmse 0.23292, nfactor 95, alpha 38.0, lambda 0.50, maxIterations 2    
+rmse 0.23276, nfactor 95, alpha 38.5, lambda 0.50, maxIterations 2    
+rmse 0.23260, nfactor 95, alpha 39.0, lambda 0.50, maxIterations 2    
+rmse 0.23245, nfactor 95, alpha 39.5, lambda 0.50, maxIterations 2    
+rmse 0.23230, nfactor 95, alpha 40.0, lambda 0.50, maxIterations 2    
+rmse 0.23216, nfactor 95, alpha 40.5, lambda 0.50, maxIterations 2    
+rmse 0.23202, nfactor 95, alpha 41.0, lambda 0.50, maxIterations 2    
+rmse 0.23188, nfactor 95, alpha 41.5, lambda 0.50, maxIterations 2    
+rmse 0.23175, nfactor 95, alpha 42.0, lambda 0.50, maxIterations 2    
+rmse 0.23162, nfactor 95, alpha 42.5, lambda 0.50, maxIterations 2    
+rmse 0.23149, nfactor 95, alpha 43.0, lambda 0.50, maxIterations 2    
+rmse 0.23137, nfactor 95, alpha 43.5, lambda 0.50, maxIterations 2    
+rmse 0.23125, nfactor 95, alpha 44.0, lambda 0.50, maxIterations 2    
+rmse 0.23113, nfactor 95, alpha 44.5, lambda 0.50, maxIterations 2    
+rmse 0.23102, nfactor 95, alpha 45.0, lambda 0.50, maxIterations 2    
+rmse 0.23091, nfactor 95, alpha 45.5, lambda 0.50, maxIterations 2    
+rmse 0.23081, nfactor 95, alpha 46.0, lambda 0.50, maxIterations 2    
+rmse 0.23071, nfactor 95, alpha 46.5, lambda 0.50, maxIterations 2    
+rmse 0.23062, nfactor 95, alpha 47.0, lambda 0.50, maxIterations 2    
+rmse 0.23053, nfactor 95, alpha 47.5, lambda 0.50, maxIterations 2    
+rmse 0.23044, nfactor 95, alpha 48.0, lambda 0.50, maxIterations 2    
+rmse 0.23036, nfactor 95, alpha 48.5, lambda 0.50, maxIterations 2    
+rmse 0.23028, nfactor 95, alpha 49.0, lambda 0.50, maxIterations 2    
+rmse 0.23020, nfactor 95, alpha 49.5, lambda 0.50, maxIterations 2    
+rmse 0.23013, nfactor 95, alpha 50.0, lambda 0.50, maxIterations 2    
+rmse 0.23007, nfactor 95, alpha 50.5, lambda 0.50, maxIterations 2    
+rmse 0.23001, nfactor 95, alpha 51.0, lambda 0.50, maxIterations 2    
+rmse 0.22995, nfactor 95, alpha 51.5, lambda 0.50, maxIterations 2    
+rmse 0.22990, nfactor 95, alpha 52.0, lambda 0.50, maxIterations 2    
+rmse 0.22985, nfactor 95, alpha 52.5, lambda 0.50, maxIterations 2    
+rmse 0.22981, nfactor 95, alpha 53.0, lambda 0.50, maxIterations 2    
+rmse 0.22977, nfactor 95, alpha 53.5, lambda 0.50, maxIterations 2    
+rmse 0.22973, nfactor 95, alpha 54.0, lambda 0.50, maxIterations 2    
+rmse 0.22970, nfactor 95, alpha 54.5, lambda 0.50, maxIterations 2    
+rmse 0.22968, nfactor 95, alpha 55.0, lambda 0.50, maxIterations 2    
+rmse 0.22966, nfactor 95, alpha 55.5, lambda 0.50, maxIterations 2    
+rmse 0.22964, nfactor 95, alpha 56.0, lambda 0.50, maxIterations 2    
+rmse 0.22963, nfactor 95, alpha 56.5, lambda 0.50, maxIterations 2    
+rmse 0.22962, nfactor 95, alpha 57.0, lambda 0.50, maxIterations 2    
+rmse 0.22962, nfactor 95, alpha 57.5, lambda 0.50, maxIterations 2    
+rmse 0.22962, nfactor 95, alpha 58.0, lambda 0.50, maxIterations 2    
+rmse 0.22963, nfactor 95, alpha 58.5, lambda 0.50, maxIterations 2    
+rmse 0.22964, nfactor 95, alpha 59.0, lambda 0.50, maxIterations 2    
+rmse 0.22965, nfactor 95, alpha 59.5, lambda 0.50, maxIterations 2    
+rmse 0.22967, nfactor 95, alpha 60.0, lambda 0.50, maxIterations 2    
+rmse 0.22970, nfactor 95, alpha 60.5, lambda 0.50, maxIterations 2    
+rmse 0.22973, nfactor 95, alpha 61.0, lambda 0.50, maxIterations 2    
+rmse 0.22976, nfactor 95, alpha 61.5, lambda 0.50, maxIterations 2    
+rmse 0.22980, nfactor 95, alpha 62.0, lambda 0.50, maxIterations 2    
+rmse 0.22984, nfactor 95, alpha 62.5, lambda 0.50, maxIterations 2    
+rmse 0.22989, nfactor 95, alpha 63.0, lambda 0.50, maxIterations 2    
+rmse 0.22994, nfactor 95, alpha 63.5, lambda 0.50, maxIterations 2    
+rmse 0.23000, nfactor 95, alpha 64.0, lambda 0.50, maxIterations 2    
+rmse 0.23006, nfactor 95, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.23012, nfactor 95, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.24639, nfactor 55, alpha 35.0, lambda 0.30, maxIterations 4    
+rmse 0.24623, nfactor 55, alpha 35.5, lambda 0.30, maxIterations 4    
+rmse 0.24608, nfactor 55, alpha 36.0, lambda 0.30, maxIterations 4    
+rmse 0.24594, nfactor 55, alpha 36.5, lambda 0.30, maxIterations 4    
+rmse 0.24582, nfactor 55, alpha 37.0, lambda 0.30, maxIterations 4    
+rmse 0.24571, nfactor 55, alpha 37.5, lambda 0.30, maxIterations 4    
+rmse 0.24561, nfactor 55, alpha 38.0, lambda 0.30, maxIterations 4    
+rmse 0.24552, nfactor 55, alpha 38.5, lambda 0.30, maxIterations 4    
+rmse 0.24544, nfactor 55, alpha 39.0, lambda 0.30, maxIterations 4    
+rmse 0.24537, nfactor 55, alpha 39.5, lambda 0.30, maxIterations 4    
+rmse 0.24532, nfactor 55, alpha 40.0, lambda 0.30, maxIterations 4    
+rmse 0.24527, nfactor 55, alpha 40.5, lambda 0.30, maxIterations 4    
+rmse 0.24524, nfactor 55, alpha 41.0, lambda 0.30, maxIterations 4    
+rmse 0.24521, nfactor 55, alpha 41.5, lambda 0.30, maxIterations 4    
+rmse 0.24519, nfactor 55, alpha 42.0, lambda 0.30, maxIterations 4    
+rmse 0.24519, nfactor 55, alpha 42.5, lambda 0.30, maxIterations 4    
+rmse 0.24519, nfactor 55, alpha 43.0, lambda 0.30, maxIterations 4    
+rmse 0.24520, nfactor 55, alpha 43.5, lambda 0.30, maxIterations 4    
+rmse 0.24522, nfactor 55, alpha 44.0, lambda 0.30, maxIterations 4    
+rmse 0.24524, nfactor 55, alpha 44.5, lambda 0.30, maxIterations 4    
+rmse 0.24528, nfactor 55, alpha 45.0, lambda 0.30, maxIterations 4    
+rmse 0.24532, nfactor 55, alpha 45.5, lambda 0.30, maxIterations 4    
+rmse 0.24537, nfactor 55, alpha 46.0, lambda 0.30, maxIterations 4    
+rmse 0.24543, nfactor 55, alpha 46.5, lambda 0.30, maxIterations 4    
+rmse 0.24549, nfactor 55, alpha 47.0, lambda 0.30, maxIterations 4    
+rmse 0.24556, nfactor 55, alpha 47.5, lambda 0.30, maxIterations 4    
+rmse 0.24564, nfactor 55, alpha 48.0, lambda 0.30, maxIterations 4    
+rmse 0.24572, nfactor 55, alpha 48.5, lambda 0.30, maxIterations 4    
+rmse 0.24581, nfactor 55, alpha 49.0, lambda 0.30, maxIterations 4    
+rmse 0.24591, nfactor 55, alpha 49.5, lambda 0.30, maxIterations 4    
+rmse 0.24602, nfactor 55, alpha 50.0, lambda 0.30, maxIterations 4    
+rmse 0.24612, nfactor 55, alpha 50.5, lambda 0.30, maxIterations 4    
+rmse 0.24624, nfactor 55, alpha 51.0, lambda 0.30, maxIterations 4    
+rmse 0.24636, nfactor 55, alpha 51.5, lambda 0.30, maxIterations 4    
+rmse 0.24649, nfactor 55, alpha 52.0, lambda 0.30, maxIterations 4    
+rmse 0.24662, nfactor 55, alpha 52.5, lambda 0.30, maxIterations 4    
+rmse 0.24675, nfactor 55, alpha 53.0, lambda 0.30, maxIterations 4    
+rmse 0.24689, nfactor 55, alpha 53.5, lambda 0.30, maxIterations 4    
+rmse 0.24704, nfactor 55, alpha 54.0, lambda 0.30, maxIterations 4    
+rmse 0.24719, nfactor 55, alpha 54.5, lambda 0.30, maxIterations 4    
+rmse 0.24735, nfactor 55, alpha 55.0, lambda 0.30, maxIterations 4    
+rmse 0.24751, nfactor 55, alpha 55.5, lambda 0.30, maxIterations 4    
+rmse 0.24767, nfactor 55, alpha 56.0, lambda 0.30, maxIterations 4    
+rmse 0.24784, nfactor 55, alpha 56.5, lambda 0.30, maxIterations 4    
+rmse 0.24801, nfactor 55, alpha 57.0, lambda 0.30, maxIterations 4    
+rmse 0.24819, nfactor 55, alpha 57.5, lambda 0.30, maxIterations 4    
+rmse 0.24837, nfactor 55, alpha 58.0, lambda 0.30, maxIterations 4    
+rmse 0.24855, nfactor 55, alpha 58.5, lambda 0.30, maxIterations 4    
+rmse 0.24874, nfactor 55, alpha 59.0, lambda 0.30, maxIterations 4    
+rmse 0.24893, nfactor 55, alpha 59.5, lambda 0.30, maxIterations 4    
+rmse 0.24913, nfactor 55, alpha 60.0, lambda 0.30, maxIterations 4    
+rmse 0.24933, nfactor 55, alpha 60.5, lambda 0.30, maxIterations 4    
+rmse 0.24953, nfactor 55, alpha 61.0, lambda 0.30, maxIterations 4    
+rmse 0.24974, nfactor 55, alpha 61.5, lambda 0.30, maxIterations 4    
+rmse 0.24994, nfactor 55, alpha 62.0, lambda 0.30, maxIterations 4    
+rmse 0.25016, nfactor 55, alpha 62.5, lambda 0.30, maxIterations 4    
+rmse 0.25037, nfactor 55, alpha 63.0, lambda 0.30, maxIterations 4    
+rmse 0.25059, nfactor 55, alpha 63.5, lambda 0.30, maxIterations 4    
+rmse 0.25081, nfactor 55, alpha 64.0, lambda 0.30, maxIterations 4    
+rmse 0.25103, nfactor 55, alpha 64.5, lambda 0.30, maxIterations 4    
+rmse 0.25126, nfactor 55, alpha 65.0, lambda 0.30, maxIterations 4    
+rmse 0.24544, nfactor 55, alpha 35.0, lambda 0.40, maxIterations 4    
+rmse 0.24531, nfactor 55, alpha 35.5, lambda 0.40, maxIterations 4    
+rmse 0.24520, nfactor 55, alpha 36.0, lambda 0.40, maxIterations 4    
+rmse 0.24509, nfactor 55, alpha 36.5, lambda 0.40, maxIterations 4    
+rmse 0.24499, nfactor 55, alpha 37.0, lambda 0.40, maxIterations 4    
+rmse 0.24490, nfactor 55, alpha 37.5, lambda 0.40, maxIterations 4    
+rmse 0.24483, nfactor 55, alpha 38.0, lambda 0.40, maxIterations 4    
+rmse 0.24476, nfactor 55, alpha 38.5, lambda 0.40, maxIterations 4    
+rmse 0.24470, nfactor 55, alpha 39.0, lambda 0.40, maxIterations 4    
+rmse 0.24465, nfactor 55, alpha 39.5, lambda 0.40, maxIterations 4    
+rmse 0.24461, nfactor 55, alpha 40.0, lambda 0.40, maxIterations 4    
+rmse 0.24458, nfactor 55, alpha 40.5, lambda 0.40, maxIterations 4    
+rmse 0.24456, nfactor 55, alpha 41.0, lambda 0.40, maxIterations 4    
+rmse 0.24455, nfactor 55, alpha 41.5, lambda 0.40, maxIterations 4    
+rmse 0.24454, nfactor 55, alpha 42.0, lambda 0.40, maxIterations 4    
+rmse 0.24454, nfactor 55, alpha 42.5, lambda 0.40, maxIterations 4    
+rmse 0.24455, nfactor 55, alpha 43.0, lambda 0.40, maxIterations 4    
+rmse 0.24456, nfactor 55, alpha 43.5, lambda 0.40, maxIterations 4    
+rmse 0.24458, nfactor 55, alpha 44.0, lambda 0.40, maxIterations 4    
+rmse 0.24461, nfactor 55, alpha 44.5, lambda 0.40, maxIterations 4    
+rmse 0.24465, nfactor 55, alpha 45.0, lambda 0.40, maxIterations 4    
+rmse 0.24469, nfactor 55, alpha 45.5, lambda 0.40, maxIterations 4    
+rmse 0.24474, nfactor 55, alpha 46.0, lambda 0.40, maxIterations 4    
+rmse 0.24480, nfactor 55, alpha 46.5, lambda 0.40, maxIterations 4    
+rmse 0.24486, nfactor 55, alpha 47.0, lambda 0.40, maxIterations 4    
+rmse 0.24492, nfactor 55, alpha 47.5, lambda 0.40, maxIterations 4    
+rmse 0.24500, nfactor 55, alpha 48.0, lambda 0.40, maxIterations 4    
+rmse 0.24507, nfactor 55, alpha 48.5, lambda 0.40, maxIterations 4    
+rmse 0.24516, nfactor 55, alpha 49.0, lambda 0.40, maxIterations 4    
+rmse 0.24525, nfactor 55, alpha 49.5, lambda 0.40, maxIterations 4    
+rmse 0.24534, nfactor 55, alpha 50.0, lambda 0.40, maxIterations 4    
+rmse 0.24544, nfactor 55, alpha 50.5, lambda 0.40, maxIterations 4    
+rmse 0.24554, nfactor 55, alpha 51.0, lambda 0.40, maxIterations 4    
+rmse 0.24565, nfactor 55, alpha 51.5, lambda 0.40, maxIterations 4    
+rmse 0.24577, nfactor 55, alpha 52.0, lambda 0.40, maxIterations 4    
+rmse 0.24588, nfactor 55, alpha 52.5, lambda 0.40, maxIterations 4    
+rmse 0.24601, nfactor 55, alpha 53.0, lambda 0.40, maxIterations 4    
+rmse 0.24613, nfactor 55, alpha 53.5, lambda 0.40, maxIterations 4    
+rmse 0.24626, nfactor 55, alpha 54.0, lambda 0.40, maxIterations 4    
+rmse 0.24640, nfactor 55, alpha 54.5, lambda 0.40, maxIterations 4    
+rmse 0.24654, nfactor 55, alpha 55.0, lambda 0.40, maxIterations 4    
+rmse 0.24668, nfactor 55, alpha 55.5, lambda 0.40, maxIterations 4    
+rmse 0.24683, nfactor 55, alpha 56.0, lambda 0.40, maxIterations 4    
+rmse 0.24698, nfactor 55, alpha 56.5, lambda 0.40, maxIterations 4    
+rmse 0.24713, nfactor 55, alpha 57.0, lambda 0.40, maxIterations 4    
+rmse 0.24729, nfactor 55, alpha 57.5, lambda 0.40, maxIterations 4    
+rmse 0.24745, nfactor 55, alpha 58.0, lambda 0.40, maxIterations 4    
+rmse 0.24761, nfactor 55, alpha 58.5, lambda 0.40, maxIterations 4    
+rmse 0.24778, nfactor 55, alpha 59.0, lambda 0.40, maxIterations 4    
+rmse 0.24795, nfactor 55, alpha 59.5, lambda 0.40, maxIterations 4    
+rmse 0.24812, nfactor 55, alpha 60.0, lambda 0.40, maxIterations 4    
+rmse 0.24830, nfactor 55, alpha 60.5, lambda 0.40, maxIterations 4    
+rmse 0.24848, nfactor 55, alpha 61.0, lambda 0.40, maxIterations 4    
+rmse 0.24866, nfactor 55, alpha 61.5, lambda 0.40, maxIterations 4    
+rmse 0.24885, nfactor 55, alpha 62.0, lambda 0.40, maxIterations 4    
+rmse 0.24903, nfactor 55, alpha 62.5, lambda 0.40, maxIterations 4    
+rmse 0.24922, nfactor 55, alpha 63.0, lambda 0.40, maxIterations 4    
+rmse 0.24942, nfactor 55, alpha 63.5, lambda 0.40, maxIterations 4    
+rmse 0.24961, nfactor 55, alpha 64.0, lambda 0.40, maxIterations 4    
+rmse 0.24981, nfactor 55, alpha 64.5, lambda 0.40, maxIterations 4    
+rmse 0.25001, nfactor 55, alpha 65.0, lambda 0.40, maxIterations 4    
+rmse 0.24405, nfactor 55, alpha 35.0, lambda 0.50, maxIterations 4    
+rmse 0.24397, nfactor 55, alpha 35.5, lambda 0.50, maxIterations 4    
+rmse 0.24389, nfactor 55, alpha 36.0, lambda 0.50, maxIterations 4    
+rmse 0.24383, nfactor 55, alpha 36.5, lambda 0.50, maxIterations 4    
+rmse 0.24377, nfactor 55, alpha 37.0, lambda 0.50, maxIterations 4    
+rmse 0.24372, nfactor 55, alpha 37.5, lambda 0.50, maxIterations 4    
+rmse 0.24368, nfactor 55, alpha 38.0, lambda 0.50, maxIterations 4    
+rmse 0.24364, nfactor 55, alpha 38.5, lambda 0.50, maxIterations 4    
+rmse 0.24362, nfactor 55, alpha 39.0, lambda 0.50, maxIterations 4    
+rmse 0.24360, nfactor 55, alpha 39.5, lambda 0.50, maxIterations 4    
+rmse 0.24359, nfactor 55, alpha 40.0, lambda 0.50, maxIterations 4    
+rmse 0.24358, nfactor 55, alpha 40.5, lambda 0.50, maxIterations 4    
+rmse 0.24358, nfactor 55, alpha 41.0, lambda 0.50, maxIterations 4    
+rmse 0.24359, nfactor 55, alpha 41.5, lambda 0.50, maxIterations 4    
+rmse 0.24361, nfactor 55, alpha 42.0, lambda 0.50, maxIterations 4    
+rmse 0.24363, nfactor 55, alpha 42.5, lambda 0.50, maxIterations 4    
+rmse 0.24366, nfactor 55, alpha 43.0, lambda 0.50, maxIterations 4    
+rmse 0.24369, nfactor 55, alpha 43.5, lambda 0.50, maxIterations 4    
+rmse 0.24373, nfactor 55, alpha 44.0, lambda 0.50, maxIterations 4    
+rmse 0.24378, nfactor 55, alpha 44.5, lambda 0.50, maxIterations 4    
+rmse 0.24383, nfactor 55, alpha 45.0, lambda 0.50, maxIterations 4    
+rmse 0.24388, nfactor 55, alpha 45.5, lambda 0.50, maxIterations 4    
+rmse 0.24394, nfactor 55, alpha 46.0, lambda 0.50, maxIterations 4    
+rmse 0.24401, nfactor 55, alpha 46.5, lambda 0.50, maxIterations 4    
+rmse 0.24408, nfactor 55, alpha 47.0, lambda 0.50, maxIterations 4    
+rmse 0.24416, nfactor 55, alpha 47.5, lambda 0.50, maxIterations 4    
+rmse 0.24424, nfactor 55, alpha 48.0, lambda 0.50, maxIterations 4    
+rmse 0.24432, nfactor 55, alpha 48.5, lambda 0.50, maxIterations 4    
+rmse 0.24441, nfactor 55, alpha 49.0, lambda 0.50, maxIterations 4    
+rmse 0.24451, nfactor 55, alpha 49.5, lambda 0.50, maxIterations 4    
+rmse 0.24461, nfactor 55, alpha 50.0, lambda 0.50, maxIterations 4    
+rmse 0.24471, nfactor 55, alpha 50.5, lambda 0.50, maxIterations 4    
+rmse 0.24482, nfactor 55, alpha 51.0, lambda 0.50, maxIterations 4    
+rmse 0.24493, nfactor 55, alpha 51.5, lambda 0.50, maxIterations 4    
+rmse 0.24504, nfactor 55, alpha 52.0, lambda 0.50, maxIterations 4    
+rmse 0.24516, nfactor 55, alpha 52.5, lambda 0.50, maxIterations 4    
+rmse 0.24528, nfactor 55, alpha 53.0, lambda 0.50, maxIterations 4    
+rmse 0.24541, nfactor 55, alpha 53.5, lambda 0.50, maxIterations 4    
+rmse 0.24554, nfactor 55, alpha 54.0, lambda 0.50, maxIterations 4    
+rmse 0.24567, nfactor 55, alpha 54.5, lambda 0.50, maxIterations 4    
+rmse 0.24581, nfactor 55, alpha 55.0, lambda 0.50, maxIterations 4    
+rmse 0.24595, nfactor 55, alpha 55.5, lambda 0.50, maxIterations 4    
+rmse 0.24609, nfactor 55, alpha 56.0, lambda 0.50, maxIterations 4    
+rmse 0.24623, nfactor 55, alpha 56.5, lambda 0.50, maxIterations 4    
+rmse 0.24638, nfactor 55, alpha 57.0, lambda 0.50, maxIterations 4    
+rmse 0.24653, nfactor 55, alpha 57.5, lambda 0.50, maxIterations 4    
+rmse 0.24669, nfactor 55, alpha 58.0, lambda 0.50, maxIterations 4    
+rmse 0.24685, nfactor 55, alpha 58.5, lambda 0.50, maxIterations 4    
+rmse 0.24701, nfactor 55, alpha 59.0, lambda 0.50, maxIterations 4    
+rmse 0.24717, nfactor 55, alpha 59.5, lambda 0.50, maxIterations 4    
+rmse 0.24734, nfactor 55, alpha 60.0, lambda 0.50, maxIterations 4    
+rmse 0.24750, nfactor 55, alpha 60.5, lambda 0.50, maxIterations 4    
+rmse 0.24767, nfactor 55, alpha 61.0, lambda 0.50, maxIterations 4    
+rmse 0.24785, nfactor 55, alpha 61.5, lambda 0.50, maxIterations 4    
+rmse 0.24802, nfactor 55, alpha 62.0, lambda 0.50, maxIterations 4    
+rmse 0.24820, nfactor 55, alpha 62.5, lambda 0.50, maxIterations 4    
+rmse 0.24838, nfactor 55, alpha 63.0, lambda 0.50, maxIterations 4    
+rmse 0.24856, nfactor 55, alpha 63.5, lambda 0.50, maxIterations 4    
+rmse 0.24875, nfactor 55, alpha 64.0, lambda 0.50, maxIterations 4    
+rmse 0.24893, nfactor 55, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.24912, nfactor 55, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.24842, nfactor 75, alpha 35.0, lambda 0.30, maxIterations 4    
+rmse 0.24844, nfactor 75, alpha 35.5, lambda 0.30, maxIterations 4    
+rmse 0.24847, nfactor 75, alpha 36.0, lambda 0.30, maxIterations 4    
+rmse 0.24852, nfactor 75, alpha 36.5, lambda 0.30, maxIterations 4    
+rmse 0.24857, nfactor 75, alpha 37.0, lambda 0.30, maxIterations 4    
+rmse 0.24863, nfactor 75, alpha 37.5, lambda 0.30, maxIterations 4    
+rmse 0.24870, nfactor 75, alpha 38.0, lambda 0.30, maxIterations 4    
+rmse 0.24878, nfactor 75, alpha 38.5, lambda 0.30, maxIterations 4    
+rmse 0.24887, nfactor 75, alpha 39.0, lambda 0.30, maxIterations 4    
+rmse 0.24896, nfactor 75, alpha 39.5, lambda 0.30, maxIterations 4    
+rmse 0.24906, nfactor 75, alpha 40.0, lambda 0.30, maxIterations 4    
+rmse 0.24918, nfactor 75, alpha 40.5, lambda 0.30, maxIterations 4    
+rmse 0.24929, nfactor 75, alpha 41.0, lambda 0.30, maxIterations 4    
+rmse 0.24942, nfactor 75, alpha 41.5, lambda 0.30, maxIterations 4    
+rmse 0.24955, nfactor 75, alpha 42.0, lambda 0.30, maxIterations 4    
+rmse 0.24969, nfactor 75, alpha 42.5, lambda 0.30, maxIterations 4    
+rmse 0.24983, nfactor 75, alpha 43.0, lambda 0.30, maxIterations 4    
+rmse 0.24998, nfactor 75, alpha 43.5, lambda 0.30, maxIterations 4    
+rmse 0.25014, nfactor 75, alpha 44.0, lambda 0.30, maxIterations 4    
+rmse 0.25031, nfactor 75, alpha 44.5, lambda 0.30, maxIterations 4    
+rmse 0.25047, nfactor 75, alpha 45.0, lambda 0.30, maxIterations 4    
+rmse 0.25065, nfactor 75, alpha 45.5, lambda 0.30, maxIterations 4    
+rmse 0.25083, nfactor 75, alpha 46.0, lambda 0.30, maxIterations 4    
+rmse 0.25102, nfactor 75, alpha 46.5, lambda 0.30, maxIterations 4    
+rmse 0.25121, nfactor 75, alpha 47.0, lambda 0.30, maxIterations 4    
+rmse 0.25140, nfactor 75, alpha 47.5, lambda 0.30, maxIterations 4    
+rmse 0.25160, nfactor 75, alpha 48.0, lambda 0.30, maxIterations 4    
+rmse 0.25181, nfactor 75, alpha 48.5, lambda 0.30, maxIterations 4    
+rmse 0.25202, nfactor 75, alpha 49.0, lambda 0.30, maxIterations 4    
+rmse 0.25223, nfactor 75, alpha 49.5, lambda 0.30, maxIterations 4    
+rmse 0.25245, nfactor 75, alpha 50.0, lambda 0.30, maxIterations 4    
+rmse 0.25267, nfactor 75, alpha 50.5, lambda 0.30, maxIterations 4    
+rmse 0.25290, nfactor 75, alpha 51.0, lambda 0.30, maxIterations 4    
+rmse 0.25312, nfactor 75, alpha 51.5, lambda 0.30, maxIterations 4    
+rmse 0.25336, nfactor 75, alpha 52.0, lambda 0.30, maxIterations 4    
+rmse 0.25359, nfactor 75, alpha 52.5, lambda 0.30, maxIterations 4    
+rmse 0.25384, nfactor 75, alpha 53.0, lambda 0.30, maxIterations 4    
+rmse 0.25408, nfactor 75, alpha 53.5, lambda 0.30, maxIterations 4    
+rmse 0.25433, nfactor 75, alpha 54.0, lambda 0.30, maxIterations 4    
+rmse 0.25458, nfactor 75, alpha 54.5, lambda 0.30, maxIterations 4    
+rmse 0.25483, nfactor 75, alpha 55.0, lambda 0.30, maxIterations 4    
+rmse 0.25508, nfactor 75, alpha 55.5, lambda 0.30, maxIterations 4    
+rmse 0.25534, nfactor 75, alpha 56.0, lambda 0.30, maxIterations 4    
+rmse 0.25560, nfactor 75, alpha 56.5, lambda 0.30, maxIterations 4    
+rmse 0.25587, nfactor 75, alpha 57.0, lambda 0.30, maxIterations 4    
+rmse 0.25613, nfactor 75, alpha 57.5, lambda 0.30, maxIterations 4    
+rmse 0.25640, nfactor 75, alpha 58.0, lambda 0.30, maxIterations 4    
+rmse 0.25667, nfactor 75, alpha 58.5, lambda 0.30, maxIterations 4    
+rmse 0.25695, nfactor 75, alpha 59.0, lambda 0.30, maxIterations 4    
+rmse 0.25722, nfactor 75, alpha 59.5, lambda 0.30, maxIterations 4    
+rmse 0.25750, nfactor 75, alpha 60.0, lambda 0.30, maxIterations 4    
+rmse 0.25778, nfactor 75, alpha 60.5, lambda 0.30, maxIterations 4    
+rmse 0.25806, nfactor 75, alpha 61.0, lambda 0.30, maxIterations 4    
+rmse 0.25835, nfactor 75, alpha 61.5, lambda 0.30, maxIterations 4    
+rmse 0.25863, nfactor 75, alpha 62.0, lambda 0.30, maxIterations 4    
+rmse 0.25892, nfactor 75, alpha 62.5, lambda 0.30, maxIterations 4    
+rmse 0.25921, nfactor 75, alpha 63.0, lambda 0.30, maxIterations 4    
+rmse 0.25950, nfactor 75, alpha 63.5, lambda 0.30, maxIterations 4    
+rmse 0.25979, nfactor 75, alpha 64.0, lambda 0.30, maxIterations 4    
+rmse 0.26008, nfactor 75, alpha 64.5, lambda 0.30, maxIterations 4    
+rmse 0.26038, nfactor 75, alpha 65.0, lambda 0.30, maxIterations 4    
+rmse 0.24741, nfactor 75, alpha 35.0, lambda 0.40, maxIterations 4    
+rmse 0.24746, nfactor 75, alpha 35.5, lambda 0.40, maxIterations 4    
+rmse 0.24752, nfactor 75, alpha 36.0, lambda 0.40, maxIterations 4    
+rmse 0.24759, nfactor 75, alpha 36.5, lambda 0.40, maxIterations 4    
+rmse 0.24767, nfactor 75, alpha 37.0, lambda 0.40, maxIterations 4    
+rmse 0.24775, nfactor 75, alpha 37.5, lambda 0.40, maxIterations 4    
+rmse 0.24783, nfactor 75, alpha 38.0, lambda 0.40, maxIterations 4    
+rmse 0.24793, nfactor 75, alpha 38.5, lambda 0.40, maxIterations 4    
+rmse 0.24803, nfactor 75, alpha 39.0, lambda 0.40, maxIterations 4    
+rmse 0.24814, nfactor 75, alpha 39.5, lambda 0.40, maxIterations 4    
+rmse 0.24825, nfactor 75, alpha 40.0, lambda 0.40, maxIterations 4    
+rmse 0.24837, nfactor 75, alpha 40.5, lambda 0.40, maxIterations 4    
+rmse 0.24849, nfactor 75, alpha 41.0, lambda 0.40, maxIterations 4    
+rmse 0.24862, nfactor 75, alpha 41.5, lambda 0.40, maxIterations 4    
+rmse 0.24876, nfactor 75, alpha 42.0, lambda 0.40, maxIterations 4    
+rmse 0.24890, nfactor 75, alpha 42.5, lambda 0.40, maxIterations 4    
+rmse 0.24904, nfactor 75, alpha 43.0, lambda 0.40, maxIterations 4    
+rmse 0.24919, nfactor 75, alpha 43.5, lambda 0.40, maxIterations 4    
+rmse 0.24934, nfactor 75, alpha 44.0, lambda 0.40, maxIterations 4    
+rmse 0.24950, nfactor 75, alpha 44.5, lambda 0.40, maxIterations 4    
+rmse 0.24967, nfactor 75, alpha 45.0, lambda 0.40, maxIterations 4    
+rmse 0.24984, nfactor 75, alpha 45.5, lambda 0.40, maxIterations 4    
+rmse 0.25001, nfactor 75, alpha 46.0, lambda 0.40, maxIterations 4    
+rmse 0.25019, nfactor 75, alpha 46.5, lambda 0.40, maxIterations 4    
+rmse 0.25037, nfactor 75, alpha 47.0, lambda 0.40, maxIterations 4    
+rmse 0.25055, nfactor 75, alpha 47.5, lambda 0.40, maxIterations 4    
+rmse 0.25074, nfactor 75, alpha 48.0, lambda 0.40, maxIterations 4    
+rmse 0.25093, nfactor 75, alpha 48.5, lambda 0.40, maxIterations 4    
+rmse 0.25113, nfactor 75, alpha 49.0, lambda 0.40, maxIterations 4    
+rmse 0.25133, nfactor 75, alpha 49.5, lambda 0.40, maxIterations 4    
+rmse 0.25153, nfactor 75, alpha 50.0, lambda 0.40, maxIterations 4    
+rmse 0.25173, nfactor 75, alpha 50.5, lambda 0.40, maxIterations 4    
+rmse 0.25194, nfactor 75, alpha 51.0, lambda 0.40, maxIterations 4    
+rmse 0.25215, nfactor 75, alpha 51.5, lambda 0.40, maxIterations 4    
+rmse 0.25237, nfactor 75, alpha 52.0, lambda 0.40, maxIterations 4    
+rmse 0.25259, nfactor 75, alpha 52.5, lambda 0.40, maxIterations 4    
+rmse 0.25281, nfactor 75, alpha 53.0, lambda 0.40, maxIterations 4    
+rmse 0.25303, nfactor 75, alpha 53.5, lambda 0.40, maxIterations 4    
+rmse 0.25325, nfactor 75, alpha 54.0, lambda 0.40, maxIterations 4    
+rmse 0.25348, nfactor 75, alpha 54.5, lambda 0.40, maxIterations 4    
+rmse 0.25371, nfactor 75, alpha 55.0, lambda 0.40, maxIterations 4    
+rmse 0.25395, nfactor 75, alpha 55.5, lambda 0.40, maxIterations 4    
+rmse 0.25418, nfactor 75, alpha 56.0, lambda 0.40, maxIterations 4    
+rmse 0.25442, nfactor 75, alpha 56.5, lambda 0.40, maxIterations 4    
+rmse 0.25466, nfactor 75, alpha 57.0, lambda 0.40, maxIterations 4    
+rmse 0.25490, nfactor 75, alpha 57.5, lambda 0.40, maxIterations 4    
+rmse 0.25514, nfactor 75, alpha 58.0, lambda 0.40, maxIterations 4    
+rmse 0.25539, nfactor 75, alpha 58.5, lambda 0.40, maxIterations 4    
+rmse 0.25564, nfactor 75, alpha 59.0, lambda 0.40, maxIterations 4    
+rmse 0.25589, nfactor 75, alpha 59.5, lambda 0.40, maxIterations 4    
+rmse 0.25614, nfactor 75, alpha 60.0, lambda 0.40, maxIterations 4    
+rmse 0.25639, nfactor 75, alpha 60.5, lambda 0.40, maxIterations 4    
+rmse 0.25665, nfactor 75, alpha 61.0, lambda 0.40, maxIterations 4    
+rmse 0.25690, nfactor 75, alpha 61.5, lambda 0.40, maxIterations 4    
+rmse 0.25716, nfactor 75, alpha 62.0, lambda 0.40, maxIterations 4    
+rmse 0.25742, nfactor 75, alpha 62.5, lambda 0.40, maxIterations 4    
+rmse 0.25768, nfactor 75, alpha 63.0, lambda 0.40, maxIterations 4    
+rmse 0.25794, nfactor 75, alpha 63.5, lambda 0.40, maxIterations 4    
+rmse 0.25820, nfactor 75, alpha 64.0, lambda 0.40, maxIterations 4    
+rmse 0.25847, nfactor 75, alpha 64.5, lambda 0.40, maxIterations 4    
+rmse 0.25873, nfactor 75, alpha 65.0, lambda 0.40, maxIterations 4    
+rmse 0.24590, nfactor 75, alpha 35.0, lambda 0.50, maxIterations 4    
+rmse 0.24600, nfactor 75, alpha 35.5, lambda 0.50, maxIterations 4    
+rmse 0.24610, nfactor 75, alpha 36.0, lambda 0.50, maxIterations 4    
+rmse 0.24621, nfactor 75, alpha 36.5, lambda 0.50, maxIterations 4    
+rmse 0.24632, nfactor 75, alpha 37.0, lambda 0.50, maxIterations 4    
+rmse 0.24644, nfactor 75, alpha 37.5, lambda 0.50, maxIterations 4    
+rmse 0.24656, nfactor 75, alpha 38.0, lambda 0.50, maxIterations 4    
+rmse 0.24668, nfactor 75, alpha 38.5, lambda 0.50, maxIterations 4    
+rmse 0.24682, nfactor 75, alpha 39.0, lambda 0.50, maxIterations 4    
+rmse 0.24695, nfactor 75, alpha 39.5, lambda 0.50, maxIterations 4    
+rmse 0.24709, nfactor 75, alpha 40.0, lambda 0.50, maxIterations 4    
+rmse 0.24723, nfactor 75, alpha 40.5, lambda 0.50, maxIterations 4    
+rmse 0.24738, nfactor 75, alpha 41.0, lambda 0.50, maxIterations 4    
+rmse 0.24753, nfactor 75, alpha 41.5, lambda 0.50, maxIterations 4    
+rmse 0.24769, nfactor 75, alpha 42.0, lambda 0.50, maxIterations 4    
+rmse 0.24785, nfactor 75, alpha 42.5, lambda 0.50, maxIterations 4    
+rmse 0.24801, nfactor 75, alpha 43.0, lambda 0.50, maxIterations 4    
+rmse 0.24818, nfactor 75, alpha 43.5, lambda 0.50, maxIterations 4    
+rmse 0.24835, nfactor 75, alpha 44.0, lambda 0.50, maxIterations 4    
+rmse 0.24852, nfactor 75, alpha 44.5, lambda 0.50, maxIterations 4    
+rmse 0.24870, nfactor 75, alpha 45.0, lambda 0.50, maxIterations 4    
+rmse 0.24888, nfactor 75, alpha 45.5, lambda 0.50, maxIterations 4    
+rmse 0.24906, nfactor 75, alpha 46.0, lambda 0.50, maxIterations 4    
+rmse 0.24924, nfactor 75, alpha 46.5, lambda 0.50, maxIterations 4    
+rmse 0.24943, nfactor 75, alpha 47.0, lambda 0.50, maxIterations 4    
+rmse 0.24962, nfactor 75, alpha 47.5, lambda 0.50, maxIterations 4    
+rmse 0.24982, nfactor 75, alpha 48.0, lambda 0.50, maxIterations 4    
+rmse 0.25002, nfactor 75, alpha 48.5, lambda 0.50, maxIterations 4    
+rmse 0.25021, nfactor 75, alpha 49.0, lambda 0.50, maxIterations 4    
+rmse 0.25042, nfactor 75, alpha 49.5, lambda 0.50, maxIterations 4    
+rmse 0.25062, nfactor 75, alpha 50.0, lambda 0.50, maxIterations 4    
+rmse 0.25083, nfactor 75, alpha 50.5, lambda 0.50, maxIterations 4    
+rmse 0.25104, nfactor 75, alpha 51.0, lambda 0.50, maxIterations 4    
+rmse 0.25125, nfactor 75, alpha 51.5, lambda 0.50, maxIterations 4    
+rmse 0.25146, nfactor 75, alpha 52.0, lambda 0.50, maxIterations 4    
+rmse 0.25168, nfactor 75, alpha 52.5, lambda 0.50, maxIterations 4    
+rmse 0.25189, nfactor 75, alpha 53.0, lambda 0.50, maxIterations 4    
+rmse 0.25211, nfactor 75, alpha 53.5, lambda 0.50, maxIterations 4    
+rmse 0.25234, nfactor 75, alpha 54.0, lambda 0.50, maxIterations 4    
+rmse 0.25256, nfactor 75, alpha 54.5, lambda 0.50, maxIterations 4    
+rmse 0.25278, nfactor 75, alpha 55.0, lambda 0.50, maxIterations 4    
+rmse 0.25301, nfactor 75, alpha 55.5, lambda 0.50, maxIterations 4    
+rmse 0.25324, nfactor 75, alpha 56.0, lambda 0.50, maxIterations 4    
+rmse 0.25347, nfactor 75, alpha 56.5, lambda 0.50, maxIterations 4    
+rmse 0.25370, nfactor 75, alpha 57.0, lambda 0.50, maxIterations 4    
+rmse 0.25394, nfactor 75, alpha 57.5, lambda 0.50, maxIterations 4    
+rmse 0.25417, nfactor 75, alpha 58.0, lambda 0.50, maxIterations 4    
+rmse 0.25441, nfactor 75, alpha 58.5, lambda 0.50, maxIterations 4    
+rmse 0.25464, nfactor 75, alpha 59.0, lambda 0.50, maxIterations 4    
+rmse 0.25488, nfactor 75, alpha 59.5, lambda 0.50, maxIterations 4    
+rmse 0.25512, nfactor 75, alpha 60.0, lambda 0.50, maxIterations 4    
+rmse 0.25537, nfactor 75, alpha 60.5, lambda 0.50, maxIterations 4    
+rmse 0.25561, nfactor 75, alpha 61.0, lambda 0.50, maxIterations 4    
+rmse 0.25585, nfactor 75, alpha 61.5, lambda 0.50, maxIterations 4    
+rmse 0.25610, nfactor 75, alpha 62.0, lambda 0.50, maxIterations 4    
+rmse 0.25634, nfactor 75, alpha 62.5, lambda 0.50, maxIterations 4    
+rmse 0.25659, nfactor 75, alpha 63.0, lambda 0.50, maxIterations 4    
+rmse 0.25684, nfactor 75, alpha 63.5, lambda 0.50, maxIterations 4    
+rmse 0.25709, nfactor 75, alpha 64.0, lambda 0.50, maxIterations 4    
+rmse 0.25734, nfactor 75, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25759, nfactor 75, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25309, nfactor 95, alpha 35.0, lambda 0.30, maxIterations 4    
+rmse 0.25324, nfactor 95, alpha 35.5, lambda 0.30, maxIterations 4    
+rmse 0.25339, nfactor 95, alpha 36.0, lambda 0.30, maxIterations 4    
+rmse 0.25354, nfactor 95, alpha 36.5, lambda 0.30, maxIterations 4    
+rmse 0.25371, nfactor 95, alpha 37.0, lambda 0.30, maxIterations 4    
+rmse 0.25387, nfactor 95, alpha 37.5, lambda 0.30, maxIterations 4    
+rmse 0.25405, nfactor 95, alpha 38.0, lambda 0.30, maxIterations 4    
+rmse 0.25423, nfactor 95, alpha 38.5, lambda 0.30, maxIterations 4    
+rmse 0.25442, nfactor 95, alpha 39.0, lambda 0.30, maxIterations 4    
+rmse 0.25462, nfactor 95, alpha 39.5, lambda 0.30, maxIterations 4    
+rmse 0.25482, nfactor 95, alpha 40.0, lambda 0.30, maxIterations 4    
+rmse 0.25502, nfactor 95, alpha 40.5, lambda 0.30, maxIterations 4    
+rmse 0.25523, nfactor 95, alpha 41.0, lambda 0.30, maxIterations 4    
+rmse 0.25545, nfactor 95, alpha 41.5, lambda 0.30, maxIterations 4    
+rmse 0.25567, nfactor 95, alpha 42.0, lambda 0.30, maxIterations 4    
+rmse 0.25589, nfactor 95, alpha 42.5, lambda 0.30, maxIterations 4    
+rmse 0.25612, nfactor 95, alpha 43.0, lambda 0.30, maxIterations 4    
+rmse 0.25636, nfactor 95, alpha 43.5, lambda 0.30, maxIterations 4    
+rmse 0.25659, nfactor 95, alpha 44.0, lambda 0.30, maxIterations 4    
+rmse 0.25684, nfactor 95, alpha 44.5, lambda 0.30, maxIterations 4    
+rmse 0.25708, nfactor 95, alpha 45.0, lambda 0.30, maxIterations 4    
+rmse 0.25733, nfactor 95, alpha 45.5, lambda 0.30, maxIterations 4    
+rmse 0.25759, nfactor 95, alpha 46.0, lambda 0.30, maxIterations 4    
+rmse 0.25785, nfactor 95, alpha 46.5, lambda 0.30, maxIterations 4    
+rmse 0.25811, nfactor 95, alpha 47.0, lambda 0.30, maxIterations 4    
+rmse 0.25837, nfactor 95, alpha 47.5, lambda 0.30, maxIterations 4    
+rmse 0.25864, nfactor 95, alpha 48.0, lambda 0.30, maxIterations 4    
+rmse 0.25891, nfactor 95, alpha 48.5, lambda 0.30, maxIterations 4    
+rmse 0.25919, nfactor 95, alpha 49.0, lambda 0.30, maxIterations 4    
+rmse 0.25946, nfactor 95, alpha 49.5, lambda 0.30, maxIterations 4    
+rmse 0.25975, nfactor 95, alpha 50.0, lambda 0.30, maxIterations 4    
+rmse 0.26003, nfactor 95, alpha 50.5, lambda 0.30, maxIterations 4    
+rmse 0.26031, nfactor 95, alpha 51.0, lambda 0.30, maxIterations 4    
+rmse 0.26060, nfactor 95, alpha 51.5, lambda 0.30, maxIterations 4    
+rmse 0.26089, nfactor 95, alpha 52.0, lambda 0.30, maxIterations 4    
+rmse 0.26119, nfactor 95, alpha 52.5, lambda 0.30, maxIterations 4    
+rmse 0.26148, nfactor 95, alpha 53.0, lambda 0.30, maxIterations 4    
+rmse 0.26178, nfactor 95, alpha 53.5, lambda 0.30, maxIterations 4    
+rmse 0.26208, nfactor 95, alpha 54.0, lambda 0.30, maxIterations 4    
+rmse 0.26238, nfactor 95, alpha 54.5, lambda 0.30, maxIterations 4    
+rmse 0.26268, nfactor 95, alpha 55.0, lambda 0.30, maxIterations 4    
+rmse 0.26299, nfactor 95, alpha 55.5, lambda 0.30, maxIterations 4    
+rmse 0.26330, nfactor 95, alpha 56.0, lambda 0.30, maxIterations 4    
+rmse 0.26360, nfactor 95, alpha 56.5, lambda 0.30, maxIterations 4    
+rmse 0.26392, nfactor 95, alpha 57.0, lambda 0.30, maxIterations 4    
+rmse 0.26423, nfactor 95, alpha 57.5, lambda 0.30, maxIterations 4    
+rmse 0.26454, nfactor 95, alpha 58.0, lambda 0.30, maxIterations 4    
+rmse 0.26486, nfactor 95, alpha 58.5, lambda 0.30, maxIterations 4    
+rmse 0.26517, nfactor 95, alpha 59.0, lambda 0.30, maxIterations 4    
+rmse 0.26549, nfactor 95, alpha 59.5, lambda 0.30, maxIterations 4    
+rmse 0.26581, nfactor 95, alpha 60.0, lambda 0.30, maxIterations 4    
+rmse 0.26613, nfactor 95, alpha 60.5, lambda 0.30, maxIterations 4    
+rmse 0.26646, nfactor 95, alpha 61.0, lambda 0.30, maxIterations 4    
+rmse 0.26678, nfactor 95, alpha 61.5, lambda 0.30, maxIterations 4    
+rmse 0.26710, nfactor 95, alpha 62.0, lambda 0.30, maxIterations 4    
+rmse 0.26743, nfactor 95, alpha 62.5, lambda 0.30, maxIterations 4    
+rmse 0.26775, nfactor 95, alpha 63.0, lambda 0.30, maxIterations 4    
+rmse 0.26808, nfactor 95, alpha 63.5, lambda 0.30, maxIterations 4    
+rmse 0.26841, nfactor 95, alpha 64.0, lambda 0.30, maxIterations 4    
+rmse 0.26874, nfactor 95, alpha 64.5, lambda 0.30, maxIterations 4    
+rmse 0.26907, nfactor 95, alpha 65.0, lambda 0.30, maxIterations 4    
+rmse 0.25193, nfactor 95, alpha 35.0, lambda 0.40, maxIterations 4    
+rmse 0.25210, nfactor 95, alpha 35.5, lambda 0.40, maxIterations 4    
+rmse 0.25228, nfactor 95, alpha 36.0, lambda 0.40, maxIterations 4    
+rmse 0.25246, nfactor 95, alpha 36.5, lambda 0.40, maxIterations 4    
+rmse 0.25265, nfactor 95, alpha 37.0, lambda 0.40, maxIterations 4    
+rmse 0.25284, nfactor 95, alpha 37.5, lambda 0.40, maxIterations 4    
+rmse 0.25303, nfactor 95, alpha 38.0, lambda 0.40, maxIterations 4    
+rmse 0.25323, nfactor 95, alpha 38.5, lambda 0.40, maxIterations 4    
+rmse 0.25343, nfactor 95, alpha 39.0, lambda 0.40, maxIterations 4    
+rmse 0.25364, nfactor 95, alpha 39.5, lambda 0.40, maxIterations 4    
+rmse 0.25385, nfactor 95, alpha 40.0, lambda 0.40, maxIterations 4    
+rmse 0.25406, nfactor 95, alpha 40.5, lambda 0.40, maxIterations 4    
+rmse 0.25427, nfactor 95, alpha 41.0, lambda 0.40, maxIterations 4    
+rmse 0.25449, nfactor 95, alpha 41.5, lambda 0.40, maxIterations 4    
+rmse 0.25472, nfactor 95, alpha 42.0, lambda 0.40, maxIterations 4    
+rmse 0.25494, nfactor 95, alpha 42.5, lambda 0.40, maxIterations 4    
+rmse 0.25517, nfactor 95, alpha 43.0, lambda 0.40, maxIterations 4    
+rmse 0.25540, nfactor 95, alpha 43.5, lambda 0.40, maxIterations 4    
+rmse 0.25564, nfactor 95, alpha 44.0, lambda 0.40, maxIterations 4    
+rmse 0.25587, nfactor 95, alpha 44.5, lambda 0.40, maxIterations 4    
+rmse 0.25611, nfactor 95, alpha 45.0, lambda 0.40, maxIterations 4    
+rmse 0.25636, nfactor 95, alpha 45.5, lambda 0.40, maxIterations 4    
+rmse 0.25660, nfactor 95, alpha 46.0, lambda 0.40, maxIterations 4    
+rmse 0.25685, nfactor 95, alpha 46.5, lambda 0.40, maxIterations 4    
+rmse 0.25710, nfactor 95, alpha 47.0, lambda 0.40, maxIterations 4    
+rmse 0.25735, nfactor 95, alpha 47.5, lambda 0.40, maxIterations 4    
+rmse 0.25760, nfactor 95, alpha 48.0, lambda 0.40, maxIterations 4    
+rmse 0.25786, nfactor 95, alpha 48.5, lambda 0.40, maxIterations 4    
+rmse 0.25812, nfactor 95, alpha 49.0, lambda 0.40, maxIterations 4    
+rmse 0.25838, nfactor 95, alpha 49.5, lambda 0.40, maxIterations 4    
+rmse 0.25864, nfactor 95, alpha 50.0, lambda 0.40, maxIterations 4    
+rmse 0.25890, nfactor 95, alpha 50.5, lambda 0.40, maxIterations 4    
+rmse 0.25917, nfactor 95, alpha 51.0, lambda 0.40, maxIterations 4    
+rmse 0.25944, nfactor 95, alpha 51.5, lambda 0.40, maxIterations 4    
+rmse 0.25971, nfactor 95, alpha 52.0, lambda 0.40, maxIterations 4    
+rmse 0.25998, nfactor 95, alpha 52.5, lambda 0.40, maxIterations 4    
+rmse 0.26025, nfactor 95, alpha 53.0, lambda 0.40, maxIterations 4    
+rmse 0.26052, nfactor 95, alpha 53.5, lambda 0.40, maxIterations 4    
+rmse 0.26080, nfactor 95, alpha 54.0, lambda 0.40, maxIterations 4    
+rmse 0.26108, nfactor 95, alpha 54.5, lambda 0.40, maxIterations 4    
+rmse 0.26136, nfactor 95, alpha 55.0, lambda 0.40, maxIterations 4    
+rmse 0.26164, nfactor 95, alpha 55.5, lambda 0.40, maxIterations 4    
+rmse 0.26192, nfactor 95, alpha 56.0, lambda 0.40, maxIterations 4    
+rmse 0.26220, nfactor 95, alpha 56.5, lambda 0.40, maxIterations 4    
+rmse 0.26248, nfactor 95, alpha 57.0, lambda 0.40, maxIterations 4    
+rmse 0.26277, nfactor 95, alpha 57.5, lambda 0.40, maxIterations 4    
+rmse 0.26305, nfactor 95, alpha 58.0, lambda 0.40, maxIterations 4    
+rmse 0.26334, nfactor 95, alpha 58.5, lambda 0.40, maxIterations 4    
+rmse 0.26363, nfactor 95, alpha 59.0, lambda 0.40, maxIterations 4    
+rmse 0.26392, nfactor 95, alpha 59.5, lambda 0.40, maxIterations 4    
+rmse 0.26421, nfactor 95, alpha 60.0, lambda 0.40, maxIterations 4    
+rmse 0.26450, nfactor 95, alpha 60.5, lambda 0.40, maxIterations 4    
+rmse 0.26479, nfactor 95, alpha 61.0, lambda 0.40, maxIterations 4    
+rmse 0.26508, nfactor 95, alpha 61.5, lambda 0.40, maxIterations 4    
+rmse 0.26538, nfactor 95, alpha 62.0, lambda 0.40, maxIterations 4    
+rmse 0.26567, nfactor 95, alpha 62.5, lambda 0.40, maxIterations 4    
+rmse 0.26597, nfactor 95, alpha 63.0, lambda 0.40, maxIterations 4    
+rmse 0.26626, nfactor 95, alpha 63.5, lambda 0.40, maxIterations 4    
+rmse 0.26656, nfactor 95, alpha 64.0, lambda 0.40, maxIterations 4    
+rmse 0.26686, nfactor 95, alpha 64.5, lambda 0.40, maxIterations 4    
+rmse 0.26715, nfactor 95, alpha 65.0, lambda 0.40, maxIterations 4    
+rmse 0.25016, nfactor 95, alpha 35.0, lambda 0.50, maxIterations 4    
+rmse 0.25038, nfactor 95, alpha 35.5, lambda 0.50, maxIterations 4    
+rmse 0.25061, nfactor 95, alpha 36.0, lambda 0.50, maxIterations 4    
+rmse 0.25083, nfactor 95, alpha 36.5, lambda 0.50, maxIterations 4    
+rmse 0.25106, nfactor 95, alpha 37.0, lambda 0.50, maxIterations 4    
+rmse 0.25129, nfactor 95, alpha 37.5, lambda 0.50, maxIterations 4    
+rmse 0.25152, nfactor 95, alpha 38.0, lambda 0.50, maxIterations 4    
+rmse 0.25176, nfactor 95, alpha 38.5, lambda 0.50, maxIterations 4    
+rmse 0.25199, nfactor 95, alpha 39.0, lambda 0.50, maxIterations 4    
+rmse 0.25223, nfactor 95, alpha 39.5, lambda 0.50, maxIterations 4    
+rmse 0.25247, nfactor 95, alpha 40.0, lambda 0.50, maxIterations 4    
+rmse 0.25271, nfactor 95, alpha 40.5, lambda 0.50, maxIterations 4    
+rmse 0.25295, nfactor 95, alpha 41.0, lambda 0.50, maxIterations 4    
+rmse 0.25319, nfactor 95, alpha 41.5, lambda 0.50, maxIterations 4    
+rmse 0.25344, nfactor 95, alpha 42.0, lambda 0.50, maxIterations 4    
+rmse 0.25369, nfactor 95, alpha 42.5, lambda 0.50, maxIterations 4    
+rmse 0.25393, nfactor 95, alpha 43.0, lambda 0.50, maxIterations 4    
+rmse 0.25418, nfactor 95, alpha 43.5, lambda 0.50, maxIterations 4    
+rmse 0.25443, nfactor 95, alpha 44.0, lambda 0.50, maxIterations 4    
+rmse 0.25469, nfactor 95, alpha 44.5, lambda 0.50, maxIterations 4    
+rmse 0.25494, nfactor 95, alpha 45.0, lambda 0.50, maxIterations 4    
+rmse 0.25519, nfactor 95, alpha 45.5, lambda 0.50, maxIterations 4    
+rmse 0.25545, nfactor 95, alpha 46.0, lambda 0.50, maxIterations 4    
+rmse 0.25571, nfactor 95, alpha 46.5, lambda 0.50, maxIterations 4    
+rmse 0.25596, nfactor 95, alpha 47.0, lambda 0.50, maxIterations 4    
+rmse 0.25622, nfactor 95, alpha 47.5, lambda 0.50, maxIterations 4    
+rmse 0.25648, nfactor 95, alpha 48.0, lambda 0.50, maxIterations 4    
+rmse 0.25675, nfactor 95, alpha 48.5, lambda 0.50, maxIterations 4    
+rmse 0.25701, nfactor 95, alpha 49.0, lambda 0.50, maxIterations 4    
+rmse 0.25727, nfactor 95, alpha 49.5, lambda 0.50, maxIterations 4    
+rmse 0.25754, nfactor 95, alpha 50.0, lambda 0.50, maxIterations 4    
+rmse 0.25780, nfactor 95, alpha 50.5, lambda 0.50, maxIterations 4    
+rmse 0.25807, nfactor 95, alpha 51.0, lambda 0.50, maxIterations 4    
+rmse 0.25833, nfactor 95, alpha 51.5, lambda 0.50, maxIterations 4    
+rmse 0.25860, nfactor 95, alpha 52.0, lambda 0.50, maxIterations 4    
+rmse 0.25887, nfactor 95, alpha 52.5, lambda 0.50, maxIterations 4    
+rmse 0.25914, nfactor 95, alpha 53.0, lambda 0.50, maxIterations 4    
+rmse 0.25941, nfactor 95, alpha 53.5, lambda 0.50, maxIterations 4    
+rmse 0.25968, nfactor 95, alpha 54.0, lambda 0.50, maxIterations 4    
+rmse 0.25995, nfactor 95, alpha 54.5, lambda 0.50, maxIterations 4    
+rmse 0.26023, nfactor 95, alpha 55.0, lambda 0.50, maxIterations 4    
+rmse 0.26050, nfactor 95, alpha 55.5, lambda 0.50, maxIterations 4    
+rmse 0.26077, nfactor 95, alpha 56.0, lambda 0.50, maxIterations 4    
+rmse 0.26105, nfactor 95, alpha 56.5, lambda 0.50, maxIterations 4    
+rmse 0.26132, nfactor 95, alpha 57.0, lambda 0.50, maxIterations 4    
+rmse 0.26160, nfactor 95, alpha 57.5, lambda 0.50, maxIterations 4    
+rmse 0.26188, nfactor 95, alpha 58.0, lambda 0.50, maxIterations 4    
+rmse 0.26215, nfactor 95, alpha 58.5, lambda 0.50, maxIterations 4    
+rmse 0.26243, nfactor 95, alpha 59.0, lambda 0.50, maxIterations 4    
+rmse 0.26271, nfactor 95, alpha 59.5, lambda 0.50, maxIterations 4    
+rmse 0.26299, nfactor 95, alpha 60.0, lambda 0.50, maxIterations 4    
+rmse 0.26326, nfactor 95, alpha 60.5, lambda 0.50, maxIterations 4    
+rmse 0.26354, nfactor 95, alpha 61.0, lambda 0.50, maxIterations 4    
+rmse 0.26382, nfactor 95, alpha 61.5, lambda 0.50, maxIterations 4    
+rmse 0.26410, nfactor 95, alpha 62.0, lambda 0.50, maxIterations 4    
+rmse 0.26438, nfactor 95, alpha 62.5, lambda 0.50, maxIterations 4    
+rmse 0.26466, nfactor 95, alpha 63.0, lambda 0.50, maxIterations 4    
+rmse 0.26495, nfactor 95, alpha 63.5, lambda 0.50, maxIterations 4    
+rmse 0.26523, nfactor 95, alpha 64.0, lambda 0.50, maxIterations 4    
+rmse 0.26551, nfactor 95, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26579, nfactor 95, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25016, nfactor 55, alpha 35.0, lambda 0.30, maxIterations 5    
+rmse 0.25011, nfactor 55, alpha 35.5, lambda 0.30, maxIterations 5    
+rmse 0.25006, nfactor 55, alpha 36.0, lambda 0.30, maxIterations 5    
+rmse 0.25003, nfactor 55, alpha 36.5, lambda 0.30, maxIterations 5    
+rmse 0.25001, nfactor 55, alpha 37.0, lambda 0.30, maxIterations 5    
+rmse 0.25000, nfactor 55, alpha 37.5, lambda 0.30, maxIterations 5    
+rmse 0.25000, nfactor 55, alpha 38.0, lambda 0.30, maxIterations 5    
+rmse 0.25001, nfactor 55, alpha 38.5, lambda 0.30, maxIterations 5    
+rmse 0.25003, nfactor 55, alpha 39.0, lambda 0.30, maxIterations 5    
+rmse 0.25006, nfactor 55, alpha 39.5, lambda 0.30, maxIterations 5    
+rmse 0.25010, nfactor 55, alpha 40.0, lambda 0.30, maxIterations 5    
+rmse 0.25015, nfactor 55, alpha 40.5, lambda 0.30, maxIterations 5    
+rmse 0.25021, nfactor 55, alpha 41.0, lambda 0.30, maxIterations 5    
+rmse 0.25027, nfactor 55, alpha 41.5, lambda 0.30, maxIterations 5    
+rmse 0.25035, nfactor 55, alpha 42.0, lambda 0.30, maxIterations 5    
+rmse 0.25043, nfactor 55, alpha 42.5, lambda 0.30, maxIterations 5    
+rmse 0.25052, nfactor 55, alpha 43.0, lambda 0.30, maxIterations 5    
+rmse 0.25061, nfactor 55, alpha 43.5, lambda 0.30, maxIterations 5    
+rmse 0.25071, nfactor 55, alpha 44.0, lambda 0.30, maxIterations 5    
+rmse 0.25082, nfactor 55, alpha 44.5, lambda 0.30, maxIterations 5    
+rmse 0.25094, nfactor 55, alpha 45.0, lambda 0.30, maxIterations 5    
+rmse 0.25106, nfactor 55, alpha 45.5, lambda 0.30, maxIterations 5    
+rmse 0.25119, nfactor 55, alpha 46.0, lambda 0.30, maxIterations 5    
+rmse 0.25132, nfactor 55, alpha 46.5, lambda 0.30, maxIterations 5    
+rmse 0.25146, nfactor 55, alpha 47.0, lambda 0.30, maxIterations 5    
+rmse 0.25161, nfactor 55, alpha 47.5, lambda 0.30, maxIterations 5    
+rmse 0.25176, nfactor 55, alpha 48.0, lambda 0.30, maxIterations 5    
+rmse 0.25191, nfactor 55, alpha 48.5, lambda 0.30, maxIterations 5    
+rmse 0.25207, nfactor 55, alpha 49.0, lambda 0.30, maxIterations 5    
+rmse 0.25224, nfactor 55, alpha 49.5, lambda 0.30, maxIterations 5    
+rmse 0.25241, nfactor 55, alpha 50.0, lambda 0.30, maxIterations 5    
+rmse 0.25259, nfactor 55, alpha 50.5, lambda 0.30, maxIterations 5    
+rmse 0.25277, nfactor 55, alpha 51.0, lambda 0.30, maxIterations 5    
+rmse 0.25295, nfactor 55, alpha 51.5, lambda 0.30, maxIterations 5    
+rmse 0.25314, nfactor 55, alpha 52.0, lambda 0.30, maxIterations 5    
+rmse 0.25333, nfactor 55, alpha 52.5, lambda 0.30, maxIterations 5    
+rmse 0.25353, nfactor 55, alpha 53.0, lambda 0.30, maxIterations 5    
+rmse 0.25373, nfactor 55, alpha 53.5, lambda 0.30, maxIterations 5    
+rmse 0.25393, nfactor 55, alpha 54.0, lambda 0.30, maxIterations 5    
+rmse 0.25414, nfactor 55, alpha 54.5, lambda 0.30, maxIterations 5    
+rmse 0.25435, nfactor 55, alpha 55.0, lambda 0.30, maxIterations 5    
+rmse 0.25456, nfactor 55, alpha 55.5, lambda 0.30, maxIterations 5    
+rmse 0.25478, nfactor 55, alpha 56.0, lambda 0.30, maxIterations 5    
+rmse 0.25500, nfactor 55, alpha 56.5, lambda 0.30, maxIterations 5    
+rmse 0.25522, nfactor 55, alpha 57.0, lambda 0.30, maxIterations 5    
+rmse 0.25544, nfactor 55, alpha 57.5, lambda 0.30, maxIterations 5    
+rmse 0.25567, nfactor 55, alpha 58.0, lambda 0.30, maxIterations 5    
+rmse 0.25590, nfactor 55, alpha 58.5, lambda 0.30, maxIterations 5    
+rmse 0.25614, nfactor 55, alpha 59.0, lambda 0.30, maxIterations 5    
+rmse 0.25637, nfactor 55, alpha 59.5, lambda 0.30, maxIterations 5    
+rmse 0.25661, nfactor 55, alpha 60.0, lambda 0.30, maxIterations 5    
+rmse 0.25685, nfactor 55, alpha 60.5, lambda 0.30, maxIterations 5    
+rmse 0.25710, nfactor 55, alpha 61.0, lambda 0.30, maxIterations 5    
+rmse 0.25734, nfactor 55, alpha 61.5, lambda 0.30, maxIterations 5    
+rmse 0.25759, nfactor 55, alpha 62.0, lambda 0.30, maxIterations 5    
+rmse 0.25784, nfactor 55, alpha 62.5, lambda 0.30, maxIterations 5    
+rmse 0.25809, nfactor 55, alpha 63.0, lambda 0.30, maxIterations 5    
+rmse 0.25834, nfactor 55, alpha 63.5, lambda 0.30, maxIterations 5    
+rmse 0.25860, nfactor 55, alpha 64.0, lambda 0.30, maxIterations 5    
+rmse 0.25885, nfactor 55, alpha 64.5, lambda 0.30, maxIterations 5    
+rmse 0.25911, nfactor 55, alpha 65.0, lambda 0.30, maxIterations 5    
+rmse 0.24892, nfactor 55, alpha 35.0, lambda 0.40, maxIterations 5    
+rmse 0.24889, nfactor 55, alpha 35.5, lambda 0.40, maxIterations 5    
+rmse 0.24888, nfactor 55, alpha 36.0, lambda 0.40, maxIterations 5    
+rmse 0.24888, nfactor 55, alpha 36.5, lambda 0.40, maxIterations 5    
+rmse 0.24888, nfactor 55, alpha 37.0, lambda 0.40, maxIterations 5    
+rmse 0.24890, nfactor 55, alpha 37.5, lambda 0.40, maxIterations 5    
+rmse 0.24892, nfactor 55, alpha 38.0, lambda 0.40, maxIterations 5    
+rmse 0.24895, nfactor 55, alpha 38.5, lambda 0.40, maxIterations 5    
+rmse 0.24900, nfactor 55, alpha 39.0, lambda 0.40, maxIterations 5    
+rmse 0.24904, nfactor 55, alpha 39.5, lambda 0.40, maxIterations 5    
+rmse 0.24910, nfactor 55, alpha 40.0, lambda 0.40, maxIterations 5    
+rmse 0.24916, nfactor 55, alpha 40.5, lambda 0.40, maxIterations 5    
+rmse 0.24923, nfactor 55, alpha 41.0, lambda 0.40, maxIterations 5    
+rmse 0.24931, nfactor 55, alpha 41.5, lambda 0.40, maxIterations 5    
+rmse 0.24940, nfactor 55, alpha 42.0, lambda 0.40, maxIterations 5    
+rmse 0.24949, nfactor 55, alpha 42.5, lambda 0.40, maxIterations 5    
+rmse 0.24958, nfactor 55, alpha 43.0, lambda 0.40, maxIterations 5    
+rmse 0.24969, nfactor 55, alpha 43.5, lambda 0.40, maxIterations 5    
+rmse 0.24980, nfactor 55, alpha 44.0, lambda 0.40, maxIterations 5    
+rmse 0.24991, nfactor 55, alpha 44.5, lambda 0.40, maxIterations 5    
+rmse 0.25003, nfactor 55, alpha 45.0, lambda 0.40, maxIterations 5    
+rmse 0.25015, nfactor 55, alpha 45.5, lambda 0.40, maxIterations 5    
+rmse 0.25029, nfactor 55, alpha 46.0, lambda 0.40, maxIterations 5    
+rmse 0.25042, nfactor 55, alpha 46.5, lambda 0.40, maxIterations 5    
+rmse 0.25056, nfactor 55, alpha 47.0, lambda 0.40, maxIterations 5    
+rmse 0.25071, nfactor 55, alpha 47.5, lambda 0.40, maxIterations 5    
+rmse 0.25085, nfactor 55, alpha 48.0, lambda 0.40, maxIterations 5    
+rmse 0.25101, nfactor 55, alpha 48.5, lambda 0.40, maxIterations 5    
+rmse 0.25117, nfactor 55, alpha 49.0, lambda 0.40, maxIterations 5    
+rmse 0.25133, nfactor 55, alpha 49.5, lambda 0.40, maxIterations 5    
+rmse 0.25149, nfactor 55, alpha 50.0, lambda 0.40, maxIterations 5    
+rmse 0.25166, nfactor 55, alpha 50.5, lambda 0.40, maxIterations 5    
+rmse 0.25184, nfactor 55, alpha 51.0, lambda 0.40, maxIterations 5    
+rmse 0.25201, nfactor 55, alpha 51.5, lambda 0.40, maxIterations 5    
+rmse 0.25220, nfactor 55, alpha 52.0, lambda 0.40, maxIterations 5    
+rmse 0.25238, nfactor 55, alpha 52.5, lambda 0.40, maxIterations 5    
+rmse 0.25257, nfactor 55, alpha 53.0, lambda 0.40, maxIterations 5    
+rmse 0.25276, nfactor 55, alpha 53.5, lambda 0.40, maxIterations 5    
+rmse 0.25295, nfactor 55, alpha 54.0, lambda 0.40, maxIterations 5    
+rmse 0.25315, nfactor 55, alpha 54.5, lambda 0.40, maxIterations 5    
+rmse 0.25335, nfactor 55, alpha 55.0, lambda 0.40, maxIterations 5    
+rmse 0.25355, nfactor 55, alpha 55.5, lambda 0.40, maxIterations 5    
+rmse 0.25376, nfactor 55, alpha 56.0, lambda 0.40, maxIterations 5    
+rmse 0.25396, nfactor 55, alpha 56.5, lambda 0.40, maxIterations 5    
+rmse 0.25417, nfactor 55, alpha 57.0, lambda 0.40, maxIterations 5    
+rmse 0.25439, nfactor 55, alpha 57.5, lambda 0.40, maxIterations 5    
+rmse 0.25460, nfactor 55, alpha 58.0, lambda 0.40, maxIterations 5    
+rmse 0.25482, nfactor 55, alpha 58.5, lambda 0.40, maxIterations 5    
+rmse 0.25504, nfactor 55, alpha 59.0, lambda 0.40, maxIterations 5    
+rmse 0.25526, nfactor 55, alpha 59.5, lambda 0.40, maxIterations 5    
+rmse 0.25548, nfactor 55, alpha 60.0, lambda 0.40, maxIterations 5    
+rmse 0.25571, nfactor 55, alpha 60.5, lambda 0.40, maxIterations 5    
+rmse 0.25594, nfactor 55, alpha 61.0, lambda 0.40, maxIterations 5    
+rmse 0.25617, nfactor 55, alpha 61.5, lambda 0.40, maxIterations 5    
+rmse 0.25640, nfactor 55, alpha 62.0, lambda 0.40, maxIterations 5    
+rmse 0.25663, nfactor 55, alpha 62.5, lambda 0.40, maxIterations 5    
+rmse 0.25687, nfactor 55, alpha 63.0, lambda 0.40, maxIterations 5    
+rmse 0.25710, nfactor 55, alpha 63.5, lambda 0.40, maxIterations 5    
+rmse 0.25734, nfactor 55, alpha 64.0, lambda 0.40, maxIterations 5    
+rmse 0.25758, nfactor 55, alpha 64.5, lambda 0.40, maxIterations 5    
+rmse 0.25782, nfactor 55, alpha 65.0, lambda 0.40, maxIterations 5    
+rmse 0.24722, nfactor 55, alpha 35.0, lambda 0.50, maxIterations 5    
+rmse 0.24724, nfactor 55, alpha 35.5, lambda 0.50, maxIterations 5    
+rmse 0.24727, nfactor 55, alpha 36.0, lambda 0.50, maxIterations 5    
+rmse 0.24731, nfactor 55, alpha 36.5, lambda 0.50, maxIterations 5    
+rmse 0.24735, nfactor 55, alpha 37.0, lambda 0.50, maxIterations 5    
+rmse 0.24740, nfactor 55, alpha 37.5, lambda 0.50, maxIterations 5    
+rmse 0.24746, nfactor 55, alpha 38.0, lambda 0.50, maxIterations 5    
+rmse 0.24753, nfactor 55, alpha 38.5, lambda 0.50, maxIterations 5    
+rmse 0.24760, nfactor 55, alpha 39.0, lambda 0.50, maxIterations 5    
+rmse 0.24768, nfactor 55, alpha 39.5, lambda 0.50, maxIterations 5    
+rmse 0.24776, nfactor 55, alpha 40.0, lambda 0.50, maxIterations 5    
+rmse 0.24785, nfactor 55, alpha 40.5, lambda 0.50, maxIterations 5    
+rmse 0.24795, nfactor 55, alpha 41.0, lambda 0.50, maxIterations 5    
+rmse 0.24805, nfactor 55, alpha 41.5, lambda 0.50, maxIterations 5    
+rmse 0.24816, nfactor 55, alpha 42.0, lambda 0.50, maxIterations 5    
+rmse 0.24827, nfactor 55, alpha 42.5, lambda 0.50, maxIterations 5    
+rmse 0.24839, nfactor 55, alpha 43.0, lambda 0.50, maxIterations 5    
+rmse 0.24851, nfactor 55, alpha 43.5, lambda 0.50, maxIterations 5    
+rmse 0.24864, nfactor 55, alpha 44.0, lambda 0.50, maxIterations 5    
+rmse 0.24877, nfactor 55, alpha 44.5, lambda 0.50, maxIterations 5    
+rmse 0.24891, nfactor 55, alpha 45.0, lambda 0.50, maxIterations 5    
+rmse 0.24905, nfactor 55, alpha 45.5, lambda 0.50, maxIterations 5    
+rmse 0.24920, nfactor 55, alpha 46.0, lambda 0.50, maxIterations 5    
+rmse 0.24935, nfactor 55, alpha 46.5, lambda 0.50, maxIterations 5    
+rmse 0.24950, nfactor 55, alpha 47.0, lambda 0.50, maxIterations 5    
+rmse 0.24965, nfactor 55, alpha 47.5, lambda 0.50, maxIterations 5    
+rmse 0.24981, nfactor 55, alpha 48.0, lambda 0.50, maxIterations 5    
+rmse 0.24998, nfactor 55, alpha 48.5, lambda 0.50, maxIterations 5    
+rmse 0.25015, nfactor 55, alpha 49.0, lambda 0.50, maxIterations 5    
+rmse 0.25032, nfactor 55, alpha 49.5, lambda 0.50, maxIterations 5    
+rmse 0.25049, nfactor 55, alpha 50.0, lambda 0.50, maxIterations 5    
+rmse 0.25067, nfactor 55, alpha 50.5, lambda 0.50, maxIterations 5    
+rmse 0.25085, nfactor 55, alpha 51.0, lambda 0.50, maxIterations 5    
+rmse 0.25103, nfactor 55, alpha 51.5, lambda 0.50, maxIterations 5    
+rmse 0.25122, nfactor 55, alpha 52.0, lambda 0.50, maxIterations 5    
+rmse 0.25140, nfactor 55, alpha 52.5, lambda 0.50, maxIterations 5    
+rmse 0.25159, nfactor 55, alpha 53.0, lambda 0.50, maxIterations 5    
+rmse 0.25179, nfactor 55, alpha 53.5, lambda 0.50, maxIterations 5    
+rmse 0.25198, nfactor 55, alpha 54.0, lambda 0.50, maxIterations 5    
+rmse 0.25218, nfactor 55, alpha 54.5, lambda 0.50, maxIterations 5    
+rmse 0.25238, nfactor 55, alpha 55.0, lambda 0.50, maxIterations 5    
+rmse 0.25259, nfactor 55, alpha 55.5, lambda 0.50, maxIterations 5    
+rmse 0.25279, nfactor 55, alpha 56.0, lambda 0.50, maxIterations 5    
+rmse 0.25300, nfactor 55, alpha 56.5, lambda 0.50, maxIterations 5    
+rmse 0.25321, nfactor 55, alpha 57.0, lambda 0.50, maxIterations 5    
+rmse 0.25342, nfactor 55, alpha 57.5, lambda 0.50, maxIterations 5    
+rmse 0.25363, nfactor 55, alpha 58.0, lambda 0.50, maxIterations 5    
+rmse 0.25385, nfactor 55, alpha 58.5, lambda 0.50, maxIterations 5    
+rmse 0.25407, nfactor 55, alpha 59.0, lambda 0.50, maxIterations 5    
+rmse 0.25429, nfactor 55, alpha 59.5, lambda 0.50, maxIterations 5    
+rmse 0.25451, nfactor 55, alpha 60.0, lambda 0.50, maxIterations 5    
+rmse 0.25473, nfactor 55, alpha 60.5, lambda 0.50, maxIterations 5    
+rmse 0.25495, nfactor 55, alpha 61.0, lambda 0.50, maxIterations 5    
+rmse 0.25518, nfactor 55, alpha 61.5, lambda 0.50, maxIterations 5    
+rmse 0.25540, nfactor 55, alpha 62.0, lambda 0.50, maxIterations 5    
+rmse 0.25563, nfactor 55, alpha 62.5, lambda 0.50, maxIterations 5    
+rmse 0.25586, nfactor 55, alpha 63.0, lambda 0.50, maxIterations 5    
+rmse 0.25609, nfactor 55, alpha 63.5, lambda 0.50, maxIterations 5    
+rmse 0.25632, nfactor 55, alpha 64.0, lambda 0.50, maxIterations 5    
+rmse 0.25655, nfactor 55, alpha 64.5, lambda 0.50, maxIterations 5    
+rmse 0.25679, nfactor 55, alpha 65.0, lambda 0.50, maxIterations 5    
+rmse 0.25400, nfactor 75, alpha 35.0, lambda 0.30, maxIterations 5    
+rmse 0.25413, nfactor 75, alpha 35.5, lambda 0.30, maxIterations 5    
+rmse 0.25426, nfactor 75, alpha 36.0, lambda 0.30, maxIterations 5    
+rmse 0.25441, nfactor 75, alpha 36.5, lambda 0.30, maxIterations 5    
+rmse 0.25457, nfactor 75, alpha 37.0, lambda 0.30, maxIterations 5    
+rmse 0.25473, nfactor 75, alpha 37.5, lambda 0.30, maxIterations 5    
+rmse 0.25490, nfactor 75, alpha 38.0, lambda 0.30, maxIterations 5    
+rmse 0.25507, nfactor 75, alpha 38.5, lambda 0.30, maxIterations 5    
+rmse 0.25526, nfactor 75, alpha 39.0, lambda 0.30, maxIterations 5    
+rmse 0.25544, nfactor 75, alpha 39.5, lambda 0.30, maxIterations 5    
+rmse 0.25564, nfactor 75, alpha 40.0, lambda 0.30, maxIterations 5    
+rmse 0.25584, nfactor 75, alpha 40.5, lambda 0.30, maxIterations 5    
+rmse 0.25605, nfactor 75, alpha 41.0, lambda 0.30, maxIterations 5    
+rmse 0.25626, nfactor 75, alpha 41.5, lambda 0.30, maxIterations 5    
+rmse 0.25647, nfactor 75, alpha 42.0, lambda 0.30, maxIterations 5    
+rmse 0.25670, nfactor 75, alpha 42.5, lambda 0.30, maxIterations 5    
+rmse 0.25692, nfactor 75, alpha 43.0, lambda 0.30, maxIterations 5    
+rmse 0.25715, nfactor 75, alpha 43.5, lambda 0.30, maxIterations 5    
+rmse 0.25739, nfactor 75, alpha 44.0, lambda 0.30, maxIterations 5    
+rmse 0.25763, nfactor 75, alpha 44.5, lambda 0.30, maxIterations 5    
+rmse 0.25787, nfactor 75, alpha 45.0, lambda 0.30, maxIterations 5    
+rmse 0.25812, nfactor 75, alpha 45.5, lambda 0.30, maxIterations 5    
+rmse 0.25837, nfactor 75, alpha 46.0, lambda 0.30, maxIterations 5    
+rmse 0.25863, nfactor 75, alpha 46.5, lambda 0.30, maxIterations 5    
+rmse 0.25889, nfactor 75, alpha 47.0, lambda 0.30, maxIterations 5    
+rmse 0.25915, nfactor 75, alpha 47.5, lambda 0.30, maxIterations 5    
+rmse 0.25941, nfactor 75, alpha 48.0, lambda 0.30, maxIterations 5    
+rmse 0.25968, nfactor 75, alpha 48.5, lambda 0.30, maxIterations 5    
+rmse 0.25995, nfactor 75, alpha 49.0, lambda 0.30, maxIterations 5    
+rmse 0.26023, nfactor 75, alpha 49.5, lambda 0.30, maxIterations 5    
+rmse 0.26050, nfactor 75, alpha 50.0, lambda 0.30, maxIterations 5    
+rmse 0.26078, nfactor 75, alpha 50.5, lambda 0.30, maxIterations 5    
+rmse 0.26106, nfactor 75, alpha 51.0, lambda 0.30, maxIterations 5    
+rmse 0.26135, nfactor 75, alpha 51.5, lambda 0.30, maxIterations 5    
+rmse 0.26163, nfactor 75, alpha 52.0, lambda 0.30, maxIterations 5    
+rmse 0.26192, nfactor 75, alpha 52.5, lambda 0.30, maxIterations 5    
+rmse 0.26221, nfactor 75, alpha 53.0, lambda 0.30, maxIterations 5    
+rmse 0.26250, nfactor 75, alpha 53.5, lambda 0.30, maxIterations 5    
+rmse 0.26279, nfactor 75, alpha 54.0, lambda 0.30, maxIterations 5    
+rmse 0.26309, nfactor 75, alpha 54.5, lambda 0.30, maxIterations 5    
+rmse 0.26338, nfactor 75, alpha 55.0, lambda 0.30, maxIterations 5    
+rmse 0.26368, nfactor 75, alpha 55.5, lambda 0.30, maxIterations 5    
+rmse 0.26398, nfactor 75, alpha 56.0, lambda 0.30, maxIterations 5    
+rmse 0.26428, nfactor 75, alpha 56.5, lambda 0.30, maxIterations 5    
+rmse 0.26459, nfactor 75, alpha 57.0, lambda 0.30, maxIterations 5    
+rmse 0.26489, nfactor 75, alpha 57.5, lambda 0.30, maxIterations 5    
+rmse 0.26519, nfactor 75, alpha 58.0, lambda 0.30, maxIterations 5    
+rmse 0.26550, nfactor 75, alpha 58.5, lambda 0.30, maxIterations 5    
+rmse 0.26581, nfactor 75, alpha 59.0, lambda 0.30, maxIterations 5    
+rmse 0.26611, nfactor 75, alpha 59.5, lambda 0.30, maxIterations 5    
+rmse 0.26642, nfactor 75, alpha 60.0, lambda 0.30, maxIterations 5    
+rmse 0.26673, nfactor 75, alpha 60.5, lambda 0.30, maxIterations 5    
+rmse 0.26704, nfactor 75, alpha 61.0, lambda 0.30, maxIterations 5    
+rmse 0.26736, nfactor 75, alpha 61.5, lambda 0.30, maxIterations 5    
+rmse 0.26767, nfactor 75, alpha 62.0, lambda 0.30, maxIterations 5    
+rmse 0.26798, nfactor 75, alpha 62.5, lambda 0.30, maxIterations 5    
+rmse 0.26829, nfactor 75, alpha 63.0, lambda 0.30, maxIterations 5    
+rmse 0.26861, nfactor 75, alpha 63.5, lambda 0.30, maxIterations 5    
+rmse 0.26892, nfactor 75, alpha 64.0, lambda 0.30, maxIterations 5    
+rmse 0.26924, nfactor 75, alpha 64.5, lambda 0.30, maxIterations 5    
+rmse 0.26955, nfactor 75, alpha 65.0, lambda 0.30, maxIterations 5    
+rmse 0.25254, nfactor 75, alpha 35.0, lambda 0.40, maxIterations 5    
+rmse 0.25271, nfactor 75, alpha 35.5, lambda 0.40, maxIterations 5    
+rmse 0.25287, nfactor 75, alpha 36.0, lambda 0.40, maxIterations 5    
+rmse 0.25305, nfactor 75, alpha 36.5, lambda 0.40, maxIterations 5    
+rmse 0.25323, nfactor 75, alpha 37.0, lambda 0.40, maxIterations 5    
+rmse 0.25341, nfactor 75, alpha 37.5, lambda 0.40, maxIterations 5    
+rmse 0.25360, nfactor 75, alpha 38.0, lambda 0.40, maxIterations 5    
+rmse 0.25380, nfactor 75, alpha 38.5, lambda 0.40, maxIterations 5    
+rmse 0.25400, nfactor 75, alpha 39.0, lambda 0.40, maxIterations 5    
+rmse 0.25420, nfactor 75, alpha 39.5, lambda 0.40, maxIterations 5    
+rmse 0.25441, nfactor 75, alpha 40.0, lambda 0.40, maxIterations 5    
+rmse 0.25463, nfactor 75, alpha 40.5, lambda 0.40, maxIterations 5    
+rmse 0.25484, nfactor 75, alpha 41.0, lambda 0.40, maxIterations 5    
+rmse 0.25507, nfactor 75, alpha 41.5, lambda 0.40, maxIterations 5    
+rmse 0.25529, nfactor 75, alpha 42.0, lambda 0.40, maxIterations 5    
+rmse 0.25552, nfactor 75, alpha 42.5, lambda 0.40, maxIterations 5    
+rmse 0.25575, nfactor 75, alpha 43.0, lambda 0.40, maxIterations 5    
+rmse 0.25599, nfactor 75, alpha 43.5, lambda 0.40, maxIterations 5    
+rmse 0.25623, nfactor 75, alpha 44.0, lambda 0.40, maxIterations 5    
+rmse 0.25647, nfactor 75, alpha 44.5, lambda 0.40, maxIterations 5    
+rmse 0.25671, nfactor 75, alpha 45.0, lambda 0.40, maxIterations 5    
+rmse 0.25696, nfactor 75, alpha 45.5, lambda 0.40, maxIterations 5    
+rmse 0.25721, nfactor 75, alpha 46.0, lambda 0.40, maxIterations 5    
+rmse 0.25746, nfactor 75, alpha 46.5, lambda 0.40, maxIterations 5    
+rmse 0.25772, nfactor 75, alpha 47.0, lambda 0.40, maxIterations 5    
+rmse 0.25798, nfactor 75, alpha 47.5, lambda 0.40, maxIterations 5    
+rmse 0.25824, nfactor 75, alpha 48.0, lambda 0.40, maxIterations 5    
+rmse 0.25850, nfactor 75, alpha 48.5, lambda 0.40, maxIterations 5    
+rmse 0.25876, nfactor 75, alpha 49.0, lambda 0.40, maxIterations 5    
+rmse 0.25903, nfactor 75, alpha 49.5, lambda 0.40, maxIterations 5    
+rmse 0.25930, nfactor 75, alpha 50.0, lambda 0.40, maxIterations 5    
+rmse 0.25957, nfactor 75, alpha 50.5, lambda 0.40, maxIterations 5    
+rmse 0.25984, nfactor 75, alpha 51.0, lambda 0.40, maxIterations 5    
+rmse 0.26011, nfactor 75, alpha 51.5, lambda 0.40, maxIterations 5    
+rmse 0.26039, nfactor 75, alpha 52.0, lambda 0.40, maxIterations 5    
+rmse 0.26067, nfactor 75, alpha 52.5, lambda 0.40, maxIterations 5    
+rmse 0.26094, nfactor 75, alpha 53.0, lambda 0.40, maxIterations 5    
+rmse 0.26122, nfactor 75, alpha 53.5, lambda 0.40, maxIterations 5    
+rmse 0.26150, nfactor 75, alpha 54.0, lambda 0.40, maxIterations 5    
+rmse 0.26179, nfactor 75, alpha 54.5, lambda 0.40, maxIterations 5    
+rmse 0.26207, nfactor 75, alpha 55.0, lambda 0.40, maxIterations 5    
+rmse 0.26235, nfactor 75, alpha 55.5, lambda 0.40, maxIterations 5    
+rmse 0.26264, nfactor 75, alpha 56.0, lambda 0.40, maxIterations 5    
+rmse 0.26292, nfactor 75, alpha 56.5, lambda 0.40, maxIterations 5    
+rmse 0.26321, nfactor 75, alpha 57.0, lambda 0.40, maxIterations 5    
+rmse 0.26350, nfactor 75, alpha 57.5, lambda 0.40, maxIterations 5    
+rmse 0.26379, nfactor 75, alpha 58.0, lambda 0.40, maxIterations 5    
+rmse 0.26408, nfactor 75, alpha 58.5, lambda 0.40, maxIterations 5    
+rmse 0.26437, nfactor 75, alpha 59.0, lambda 0.40, maxIterations 5    
+rmse 0.26466, nfactor 75, alpha 59.5, lambda 0.40, maxIterations 5    
+rmse 0.26495, nfactor 75, alpha 60.0, lambda 0.40, maxIterations 5    
+rmse 0.26524, nfactor 75, alpha 60.5, lambda 0.40, maxIterations 5    
+rmse 0.26554, nfactor 75, alpha 61.0, lambda 0.40, maxIterations 5    
+rmse 0.26583, nfactor 75, alpha 61.5, lambda 0.40, maxIterations 5    
+rmse 0.26612, nfactor 75, alpha 62.0, lambda 0.40, maxIterations 5    
+rmse 0.26642, nfactor 75, alpha 62.5, lambda 0.40, maxIterations 5    
+rmse 0.26671, nfactor 75, alpha 63.0, lambda 0.40, maxIterations 5    
+rmse 0.26701, nfactor 75, alpha 63.5, lambda 0.40, maxIterations 5    
+rmse 0.26730, nfactor 75, alpha 64.0, lambda 0.40, maxIterations 5    
+rmse 0.26760, nfactor 75, alpha 64.5, lambda 0.40, maxIterations 5    
+rmse 0.26790, nfactor 75, alpha 65.0, lambda 0.40, maxIterations 5    
+rmse 0.25058, nfactor 75, alpha 35.0, lambda 0.50, maxIterations 5    
+rmse 0.25079, nfactor 75, alpha 35.5, lambda 0.50, maxIterations 5    
+rmse 0.25100, nfactor 75, alpha 36.0, lambda 0.50, maxIterations 5    
+rmse 0.25122, nfactor 75, alpha 36.5, lambda 0.50, maxIterations 5    
+rmse 0.25144, nfactor 75, alpha 37.0, lambda 0.50, maxIterations 5    
+rmse 0.25167, nfactor 75, alpha 37.5, lambda 0.50, maxIterations 5    
+rmse 0.25189, nfactor 75, alpha 38.0, lambda 0.50, maxIterations 5    
+rmse 0.25212, nfactor 75, alpha 38.5, lambda 0.50, maxIterations 5    
+rmse 0.25236, nfactor 75, alpha 39.0, lambda 0.50, maxIterations 5    
+rmse 0.25259, nfactor 75, alpha 39.5, lambda 0.50, maxIterations 5    
+rmse 0.25283, nfactor 75, alpha 40.0, lambda 0.50, maxIterations 5    
+rmse 0.25308, nfactor 75, alpha 40.5, lambda 0.50, maxIterations 5    
+rmse 0.25332, nfactor 75, alpha 41.0, lambda 0.50, maxIterations 5    
+rmse 0.25357, nfactor 75, alpha 41.5, lambda 0.50, maxIterations 5    
+rmse 0.25382, nfactor 75, alpha 42.0, lambda 0.50, maxIterations 5    
+rmse 0.25407, nfactor 75, alpha 42.5, lambda 0.50, maxIterations 5    
+rmse 0.25432, nfactor 75, alpha 43.0, lambda 0.50, maxIterations 5    
+rmse 0.25458, nfactor 75, alpha 43.5, lambda 0.50, maxIterations 5    
+rmse 0.25484, nfactor 75, alpha 44.0, lambda 0.50, maxIterations 5    
+rmse 0.25510, nfactor 75, alpha 44.5, lambda 0.50, maxIterations 5    
+rmse 0.25536, nfactor 75, alpha 45.0, lambda 0.50, maxIterations 5    
+rmse 0.25562, nfactor 75, alpha 45.5, lambda 0.50, maxIterations 5    
+rmse 0.25589, nfactor 75, alpha 46.0, lambda 0.50, maxIterations 5    
+rmse 0.25615, nfactor 75, alpha 46.5, lambda 0.50, maxIterations 5    
+rmse 0.25642, nfactor 75, alpha 47.0, lambda 0.50, maxIterations 5    
+rmse 0.25669, nfactor 75, alpha 47.5, lambda 0.50, maxIterations 5    
+rmse 0.25696, nfactor 75, alpha 48.0, lambda 0.50, maxIterations 5    
+rmse 0.25723, nfactor 75, alpha 48.5, lambda 0.50, maxIterations 5    
+rmse 0.25751, nfactor 75, alpha 49.0, lambda 0.50, maxIterations 5    
+rmse 0.25778, nfactor 75, alpha 49.5, lambda 0.50, maxIterations 5    
+rmse 0.25806, nfactor 75, alpha 50.0, lambda 0.50, maxIterations 5    
+rmse 0.25833, nfactor 75, alpha 50.5, lambda 0.50, maxIterations 5    
+rmse 0.25861, nfactor 75, alpha 51.0, lambda 0.50, maxIterations 5    
+rmse 0.25889, nfactor 75, alpha 51.5, lambda 0.50, maxIterations 5    
+rmse 0.25917, nfactor 75, alpha 52.0, lambda 0.50, maxIterations 5    
+rmse 0.25945, nfactor 75, alpha 52.5, lambda 0.50, maxIterations 5    
+rmse 0.25973, nfactor 75, alpha 53.0, lambda 0.50, maxIterations 5    
+rmse 0.26001, nfactor 75, alpha 53.5, lambda 0.50, maxIterations 5    
+rmse 0.26029, nfactor 75, alpha 54.0, lambda 0.50, maxIterations 5    
+rmse 0.26057, nfactor 75, alpha 54.5, lambda 0.50, maxIterations 5    
+rmse 0.26086, nfactor 75, alpha 55.0, lambda 0.50, maxIterations 5    
+rmse 0.26114, nfactor 75, alpha 55.5, lambda 0.50, maxIterations 5    
+rmse 0.26142, nfactor 75, alpha 56.0, lambda 0.50, maxIterations 5    
+rmse 0.26171, nfactor 75, alpha 56.5, lambda 0.50, maxIterations 5    
+rmse 0.26200, nfactor 75, alpha 57.0, lambda 0.50, maxIterations 5    
+rmse 0.26228, nfactor 75, alpha 57.5, lambda 0.50, maxIterations 5    
+rmse 0.26257, nfactor 75, alpha 58.0, lambda 0.50, maxIterations 5    
+rmse 0.26285, nfactor 75, alpha 58.5, lambda 0.50, maxIterations 5    
+rmse 0.26314, nfactor 75, alpha 59.0, lambda 0.50, maxIterations 5    
+rmse 0.26343, nfactor 75, alpha 59.5, lambda 0.50, maxIterations 5    
+rmse 0.26371, nfactor 75, alpha 60.0, lambda 0.50, maxIterations 5    
+rmse 0.26400, nfactor 75, alpha 60.5, lambda 0.50, maxIterations 5    
+rmse 0.26429, nfactor 75, alpha 61.0, lambda 0.50, maxIterations 5    
+rmse 0.26458, nfactor 75, alpha 61.5, lambda 0.50, maxIterations 5    
+rmse 0.26487, nfactor 75, alpha 62.0, lambda 0.50, maxIterations 5    
+rmse 0.26515, nfactor 75, alpha 62.5, lambda 0.50, maxIterations 5    
+rmse 0.26544, nfactor 75, alpha 63.0, lambda 0.50, maxIterations 5    
+rmse 0.26573, nfactor 75, alpha 63.5, lambda 0.50, maxIterations 5    
+rmse 0.26602, nfactor 75, alpha 64.0, lambda 0.50, maxIterations 5    
+rmse 0.26631, nfactor 75, alpha 64.5, lambda 0.50, maxIterations 5    
+rmse 0.26660, nfactor 75, alpha 65.0, lambda 0.50, maxIterations 5    
+rmse 0.25990, nfactor 95, alpha 35.0, lambda 0.30, maxIterations 5    
+rmse 0.26015, nfactor 95, alpha 35.5, lambda 0.30, maxIterations 5    
+rmse 0.26040, nfactor 95, alpha 36.0, lambda 0.30, maxIterations 5    
+rmse 0.26066, nfactor 95, alpha 36.5, lambda 0.30, maxIterations 5    
+rmse 0.26092, nfactor 95, alpha 37.0, lambda 0.30, maxIterations 5    
+rmse 0.26119, nfactor 95, alpha 37.5, lambda 0.30, maxIterations 5    
+rmse 0.26146, nfactor 95, alpha 38.0, lambda 0.30, maxIterations 5    
+rmse 0.26174, nfactor 95, alpha 38.5, lambda 0.30, maxIterations 5    
+rmse 0.26202, nfactor 95, alpha 39.0, lambda 0.30, maxIterations 5    
+rmse 0.26230, nfactor 95, alpha 39.5, lambda 0.30, maxIterations 5    
+rmse 0.26259, nfactor 95, alpha 40.0, lambda 0.30, maxIterations 5    
+rmse 0.26288, nfactor 95, alpha 40.5, lambda 0.30, maxIterations 5    
+rmse 0.26317, nfactor 95, alpha 41.0, lambda 0.30, maxIterations 5    
+rmse 0.26347, nfactor 95, alpha 41.5, lambda 0.30, maxIterations 5    
+rmse 0.26376, nfactor 95, alpha 42.0, lambda 0.30, maxIterations 5    
+rmse 0.26407, nfactor 95, alpha 42.5, lambda 0.30, maxIterations 5    
+rmse 0.26437, nfactor 95, alpha 43.0, lambda 0.30, maxIterations 5    
+rmse 0.26468, nfactor 95, alpha 43.5, lambda 0.30, maxIterations 5    
+rmse 0.26499, nfactor 95, alpha 44.0, lambda 0.30, maxIterations 5    
+rmse 0.26530, nfactor 95, alpha 44.5, lambda 0.30, maxIterations 5    
+rmse 0.26561, nfactor 95, alpha 45.0, lambda 0.30, maxIterations 5    
+rmse 0.26592, nfactor 95, alpha 45.5, lambda 0.30, maxIterations 5    
+rmse 0.26624, nfactor 95, alpha 46.0, lambda 0.30, maxIterations 5    
+rmse 0.26656, nfactor 95, alpha 46.5, lambda 0.30, maxIterations 5    
+rmse 0.26688, nfactor 95, alpha 47.0, lambda 0.30, maxIterations 5    
+rmse 0.26720, nfactor 95, alpha 47.5, lambda 0.30, maxIterations 5    
+rmse 0.26753, nfactor 95, alpha 48.0, lambda 0.30, maxIterations 5    
+rmse 0.26785, nfactor 95, alpha 48.5, lambda 0.30, maxIterations 5    
+rmse 0.26818, nfactor 95, alpha 49.0, lambda 0.30, maxIterations 5    
+rmse 0.26850, nfactor 95, alpha 49.5, lambda 0.30, maxIterations 5    
+rmse 0.26883, nfactor 95, alpha 50.0, lambda 0.30, maxIterations 5    
+rmse 0.26916, nfactor 95, alpha 50.5, lambda 0.30, maxIterations 5    
+rmse 0.26949, nfactor 95, alpha 51.0, lambda 0.30, maxIterations 5    
+rmse 0.26983, nfactor 95, alpha 51.5, lambda 0.30, maxIterations 5    
+rmse 0.27016, nfactor 95, alpha 52.0, lambda 0.30, maxIterations 5    
+rmse 0.27049, nfactor 95, alpha 52.5, lambda 0.30, maxIterations 5    
+rmse 0.27083, nfactor 95, alpha 53.0, lambda 0.30, maxIterations 5    
+rmse 0.27116, nfactor 95, alpha 53.5, lambda 0.30, maxIterations 5    
+rmse 0.27150, nfactor 95, alpha 54.0, lambda 0.30, maxIterations 5    
+rmse 0.27184, nfactor 95, alpha 54.5, lambda 0.30, maxIterations 5    
+rmse 0.27217, nfactor 95, alpha 55.0, lambda 0.30, maxIterations 5    
+rmse 0.27251, nfactor 95, alpha 55.5, lambda 0.30, maxIterations 5    
+rmse 0.27285, nfactor 95, alpha 56.0, lambda 0.30, maxIterations 5    
+rmse 0.27319, nfactor 95, alpha 56.5, lambda 0.30, maxIterations 5    
+rmse 0.27353, nfactor 95, alpha 57.0, lambda 0.30, maxIterations 5    
+rmse 0.27387, nfactor 95, alpha 57.5, lambda 0.30, maxIterations 5    
+rmse 0.27421, nfactor 95, alpha 58.0, lambda 0.30, maxIterations 5    
+rmse 0.27455, nfactor 95, alpha 58.5, lambda 0.30, maxIterations 5    
+rmse 0.27489, nfactor 95, alpha 59.0, lambda 0.30, maxIterations 5    
+rmse 0.27523, nfactor 95, alpha 59.5, lambda 0.30, maxIterations 5    
+rmse 0.27557, nfactor 95, alpha 60.0, lambda 0.30, maxIterations 5    
+rmse 0.27591, nfactor 95, alpha 60.5, lambda 0.30, maxIterations 5    
+rmse 0.27625, nfactor 95, alpha 61.0, lambda 0.30, maxIterations 5    
+rmse 0.27659, nfactor 95, alpha 61.5, lambda 0.30, maxIterations 5    
+rmse 0.27693, nfactor 95, alpha 62.0, lambda 0.30, maxIterations 5    
+rmse 0.27727, nfactor 95, alpha 62.5, lambda 0.30, maxIterations 5    
+rmse 0.27761, nfactor 95, alpha 63.0, lambda 0.30, maxIterations 5    
+rmse 0.27795, nfactor 95, alpha 63.5, lambda 0.30, maxIterations 5    
+rmse 0.27830, nfactor 95, alpha 64.0, lambda 0.30, maxIterations 5    
+rmse 0.27864, nfactor 95, alpha 64.5, lambda 0.30, maxIterations 5    
+rmse 0.27898, nfactor 95, alpha 65.0, lambda 0.30, maxIterations 5    
+rmse 0.25814, nfactor 95, alpha 35.0, lambda 0.40, maxIterations 5    
+rmse 0.25843, nfactor 95, alpha 35.5, lambda 0.40, maxIterations 5    
+rmse 0.25871, nfactor 95, alpha 36.0, lambda 0.40, maxIterations 5    
+rmse 0.25900, nfactor 95, alpha 36.5, lambda 0.40, maxIterations 5    
+rmse 0.25930, nfactor 95, alpha 37.0, lambda 0.40, maxIterations 5    
+rmse 0.25959, nfactor 95, alpha 37.5, lambda 0.40, maxIterations 5    
+rmse 0.25989, nfactor 95, alpha 38.0, lambda 0.40, maxIterations 5    
+rmse 0.26018, nfactor 95, alpha 38.5, lambda 0.40, maxIterations 5    
+rmse 0.26048, nfactor 95, alpha 39.0, lambda 0.40, maxIterations 5    
+rmse 0.26079, nfactor 95, alpha 39.5, lambda 0.40, maxIterations 5    
+rmse 0.26109, nfactor 95, alpha 40.0, lambda 0.40, maxIterations 5    
+rmse 0.26139, nfactor 95, alpha 40.5, lambda 0.40, maxIterations 5    
+rmse 0.26170, nfactor 95, alpha 41.0, lambda 0.40, maxIterations 5    
+rmse 0.26201, nfactor 95, alpha 41.5, lambda 0.40, maxIterations 5    
+rmse 0.26232, nfactor 95, alpha 42.0, lambda 0.40, maxIterations 5    
+rmse 0.26263, nfactor 95, alpha 42.5, lambda 0.40, maxIterations 5    
+rmse 0.26294, nfactor 95, alpha 43.0, lambda 0.40, maxIterations 5    
+rmse 0.26325, nfactor 95, alpha 43.5, lambda 0.40, maxIterations 5    
+rmse 0.26357, nfactor 95, alpha 44.0, lambda 0.40, maxIterations 5    
+rmse 0.26388, nfactor 95, alpha 44.5, lambda 0.40, maxIterations 5    
+rmse 0.26420, nfactor 95, alpha 45.0, lambda 0.40, maxIterations 5    
+rmse 0.26451, nfactor 95, alpha 45.5, lambda 0.40, maxIterations 5    
+rmse 0.26483, nfactor 95, alpha 46.0, lambda 0.40, maxIterations 5    
+rmse 0.26515, nfactor 95, alpha 46.5, lambda 0.40, maxIterations 5    
+rmse 0.26547, nfactor 95, alpha 47.0, lambda 0.40, maxIterations 5    
+rmse 0.26578, nfactor 95, alpha 47.5, lambda 0.40, maxIterations 5    
+rmse 0.26610, nfactor 95, alpha 48.0, lambda 0.40, maxIterations 5    
+rmse 0.26642, nfactor 95, alpha 48.5, lambda 0.40, maxIterations 5    
+rmse 0.26674, nfactor 95, alpha 49.0, lambda 0.40, maxIterations 5    
+rmse 0.26707, nfactor 95, alpha 49.5, lambda 0.40, maxIterations 5    
+rmse 0.26739, nfactor 95, alpha 50.0, lambda 0.40, maxIterations 5    
+rmse 0.26771, nfactor 95, alpha 50.5, lambda 0.40, maxIterations 5    
+rmse 0.26803, nfactor 95, alpha 51.0, lambda 0.40, maxIterations 5    
+rmse 0.26835, nfactor 95, alpha 51.5, lambda 0.40, maxIterations 5    
+rmse 0.26868, nfactor 95, alpha 52.0, lambda 0.40, maxIterations 5    
+rmse 0.26900, nfactor 95, alpha 52.5, lambda 0.40, maxIterations 5    
+rmse 0.26932, nfactor 95, alpha 53.0, lambda 0.40, maxIterations 5    
+rmse 0.26965, nfactor 95, alpha 53.5, lambda 0.40, maxIterations 5    
+rmse 0.26997, nfactor 95, alpha 54.0, lambda 0.40, maxIterations 5    
+rmse 0.27029, nfactor 95, alpha 54.5, lambda 0.40, maxIterations 5    
+rmse 0.27062, nfactor 95, alpha 55.0, lambda 0.40, maxIterations 5    
+rmse 0.27094, nfactor 95, alpha 55.5, lambda 0.40, maxIterations 5    
+rmse 0.27126, nfactor 95, alpha 56.0, lambda 0.40, maxIterations 5    
+rmse 0.27159, nfactor 95, alpha 56.5, lambda 0.40, maxIterations 5    
+rmse 0.27191, nfactor 95, alpha 57.0, lambda 0.40, maxIterations 5    
+rmse 0.27223, nfactor 95, alpha 57.5, lambda 0.40, maxIterations 5    
+rmse 0.27256, nfactor 95, alpha 58.0, lambda 0.40, maxIterations 5    
+rmse 0.27288, nfactor 95, alpha 58.5, lambda 0.40, maxIterations 5    
+rmse 0.27320, nfactor 95, alpha 59.0, lambda 0.40, maxIterations 5    
+rmse 0.27353, nfactor 95, alpha 59.5, lambda 0.40, maxIterations 5    
+rmse 0.27385, nfactor 95, alpha 60.0, lambda 0.40, maxIterations 5    
+rmse 0.27417, nfactor 95, alpha 60.5, lambda 0.40, maxIterations 5    
+rmse 0.27449, nfactor 95, alpha 61.0, lambda 0.40, maxIterations 5    
+rmse 0.27482, nfactor 95, alpha 61.5, lambda 0.40, maxIterations 5    
+rmse 0.27514, nfactor 95, alpha 62.0, lambda 0.40, maxIterations 5    
+rmse 0.27546, nfactor 95, alpha 62.5, lambda 0.40, maxIterations 5    
+rmse 0.27578, nfactor 95, alpha 63.0, lambda 0.40, maxIterations 5    
+rmse 0.27610, nfactor 95, alpha 63.5, lambda 0.40, maxIterations 5    
+rmse 0.27642, nfactor 95, alpha 64.0, lambda 0.40, maxIterations 5    
+rmse 0.27675, nfactor 95, alpha 64.5, lambda 0.40, maxIterations 5    
+rmse 0.27707, nfactor 95, alpha 65.0, lambda 0.40, maxIterations 5    
+rmse 0.25579, nfactor 95, alpha 35.0, lambda 0.50, maxIterations 5    
+rmse 0.25613, nfactor 95, alpha 35.5, lambda 0.50, maxIterations 5    
+rmse 0.25647, nfactor 95, alpha 36.0, lambda 0.50, maxIterations 5    
+rmse 0.25681, nfactor 95, alpha 36.5, lambda 0.50, maxIterations 5    
+rmse 0.25714, nfactor 95, alpha 37.0, lambda 0.50, maxIterations 5    
+rmse 0.25748, nfactor 95, alpha 37.5, lambda 0.50, maxIterations 5    
+rmse 0.25782, nfactor 95, alpha 38.0, lambda 0.50, maxIterations 5    
+rmse 0.25816, nfactor 95, alpha 38.5, lambda 0.50, maxIterations 5    
+rmse 0.25850, nfactor 95, alpha 39.0, lambda 0.50, maxIterations 5    
+rmse 0.25884, nfactor 95, alpha 39.5, lambda 0.50, maxIterations 5    
+rmse 0.25917, nfactor 95, alpha 40.0, lambda 0.50, maxIterations 5    
+rmse 0.25951, nfactor 95, alpha 40.5, lambda 0.50, maxIterations 5    
+rmse 0.25985, nfactor 95, alpha 41.0, lambda 0.50, maxIterations 5    
+rmse 0.26019, nfactor 95, alpha 41.5, lambda 0.50, maxIterations 5    
+rmse 0.26053, nfactor 95, alpha 42.0, lambda 0.50, maxIterations 5    
+rmse 0.26086, nfactor 95, alpha 42.5, lambda 0.50, maxIterations 5    
+rmse 0.26120, nfactor 95, alpha 43.0, lambda 0.50, maxIterations 5    
+rmse 0.26153, nfactor 95, alpha 43.5, lambda 0.50, maxIterations 5    
+rmse 0.26187, nfactor 95, alpha 44.0, lambda 0.50, maxIterations 5    
+rmse 0.26221, nfactor 95, alpha 44.5, lambda 0.50, maxIterations 5    
+rmse 0.26254, nfactor 95, alpha 45.0, lambda 0.50, maxIterations 5    
+rmse 0.26288, nfactor 95, alpha 45.5, lambda 0.50, maxIterations 5    
+rmse 0.26321, nfactor 95, alpha 46.0, lambda 0.50, maxIterations 5    
+rmse 0.26354, nfactor 95, alpha 46.5, lambda 0.50, maxIterations 5    
+rmse 0.26388, nfactor 95, alpha 47.0, lambda 0.50, maxIterations 5    
+rmse 0.26421, nfactor 95, alpha 47.5, lambda 0.50, maxIterations 5    
+rmse 0.26454, nfactor 95, alpha 48.0, lambda 0.50, maxIterations 5    
+rmse 0.26488, nfactor 95, alpha 48.5, lambda 0.50, maxIterations 5    
+rmse 0.26521, nfactor 95, alpha 49.0, lambda 0.50, maxIterations 5    
+rmse 0.26554, nfactor 95, alpha 49.5, lambda 0.50, maxIterations 5    
+rmse 0.26587, nfactor 95, alpha 50.0, lambda 0.50, maxIterations 5    
+rmse 0.26620, nfactor 95, alpha 50.5, lambda 0.50, maxIterations 5    
+rmse 0.26653, nfactor 95, alpha 51.0, lambda 0.50, maxIterations 5    
+rmse 0.26686, nfactor 95, alpha 51.5, lambda 0.50, maxIterations 5    
+rmse 0.26719, nfactor 95, alpha 52.0, lambda 0.50, maxIterations 5    
+rmse 0.26752, nfactor 95, alpha 52.5, lambda 0.50, maxIterations 5    
+rmse 0.26784, nfactor 95, alpha 53.0, lambda 0.50, maxIterations 5    
+rmse 0.26817, nfactor 95, alpha 53.5, lambda 0.50, maxIterations 5    
+rmse 0.26850, nfactor 95, alpha 54.0, lambda 0.50, maxIterations 5    
+rmse 0.26882, nfactor 95, alpha 54.5, lambda 0.50, maxIterations 5    
+rmse 0.26915, nfactor 95, alpha 55.0, lambda 0.50, maxIterations 5    
+rmse 0.26947, nfactor 95, alpha 55.5, lambda 0.50, maxIterations 5    
+rmse 0.26980, nfactor 95, alpha 56.0, lambda 0.50, maxIterations 5    
+rmse 0.27012, nfactor 95, alpha 56.5, lambda 0.50, maxIterations 5    
+rmse 0.27044, nfactor 95, alpha 57.0, lambda 0.50, maxIterations 5    
+rmse 0.27077, nfactor 95, alpha 57.5, lambda 0.50, maxIterations 5    
+rmse 0.27109, nfactor 95, alpha 58.0, lambda 0.50, maxIterations 5    
+rmse 0.27141, nfactor 95, alpha 58.5, lambda 0.50, maxIterations 5    
+rmse 0.27173, nfactor 95, alpha 59.0, lambda 0.50, maxIterations 5    
+rmse 0.27205, nfactor 95, alpha 59.5, lambda 0.50, maxIterations 5    
+rmse 0.27237, nfactor 95, alpha 60.0, lambda 0.50, maxIterations 5    
+rmse 0.27269, nfactor 95, alpha 60.5, lambda 0.50, maxIterations 5    
+rmse 0.27300, nfactor 95, alpha 61.0, lambda 0.50, maxIterations 5    
+rmse 0.27332, nfactor 95, alpha 61.5, lambda 0.50, maxIterations 5    
+rmse 0.27364, nfactor 95, alpha 62.0, lambda 0.50, maxIterations 5    
+rmse 0.27395, nfactor 95, alpha 62.5, lambda 0.50, maxIterations 5    
+rmse 0.27427, nfactor 95, alpha 63.0, lambda 0.50, maxIterations 5    
+rmse 0.27459, nfactor 95, alpha 63.5, lambda 0.50, maxIterations 5    
+rmse 0.27490, nfactor 95, alpha 64.0, lambda 0.50, maxIterations 5    
+rmse 0.27521, nfactor 95, alpha 64.5, lambda 0.50, maxIterations 5    
+rmse 0.27553, nfactor 95, alpha 65.0, lambda 0.50, maxIterations 5    
+rmse 0.22677, nfactor 55, alpha 65.0, lambda 0.30, maxIterations 2 -  
+rmse 0.22682, nfactor 55, alpha 64.5, lambda 0.30, maxIterations 2 -  
+rmse 0.22670, nfactor 55, alpha 65.0, lambda 0.35, maxIterations 2    
+rmse 0.22676, nfactor 55, alpha 64.5, lambda 0.35, maxIterations 2    
+rmse 0.22664, nfactor 55, alpha 65.0, lambda 0.40, maxIterations 2 -  
+rmse 0.22672, nfactor 55, alpha 64.5, lambda 0.40, maxIterations 2 -  
+rmse 0.22657, nfactor 55, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22665, nfactor 55, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22645, nfactor 55, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22653, nfactor 55, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.22832, nfactor 75, alpha 65.0, lambda 0.30, maxIterations 2 -  
+rmse 0.22823, nfactor 75, alpha 64.5, lambda 0.30, maxIterations 2 -  
+rmse 0.22787, nfactor 75, alpha 65.0, lambda 0.35, maxIterations 2    
+rmse 0.22782, nfactor 75, alpha 64.5, lambda 0.35, maxIterations 2    
+rmse 0.22762, nfactor 75, alpha 65.0, lambda 0.40, maxIterations 2 -  
+rmse 0.22759, nfactor 75, alpha 64.5, lambda 0.40, maxIterations 2 -  
+rmse 0.22746, nfactor 75, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22744, nfactor 75, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22733, nfactor 75, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22732, nfactor 75, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.25126, nfactor 55, alpha 65.0, lambda 0.30, maxIterations 4 -  
+rmse 0.25103, nfactor 55, alpha 64.5, lambda 0.30, maxIterations 4 -  
+rmse 0.25056, nfactor 55, alpha 65.0, lambda 0.35, maxIterations 4    
+rmse 0.25035, nfactor 55, alpha 64.5, lambda 0.35, maxIterations 4    
+rmse 0.25001, nfactor 55, alpha 65.0, lambda 0.40, maxIterations 4 -  
+rmse 0.24981, nfactor 55, alpha 64.5, lambda 0.40, maxIterations 4 -  
+rmse 0.24954, nfactor 55, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.24935, nfactor 55, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.24912, nfactor 55, alpha 65.0, lambda 0.50, maxIterations 4 -  
+rmse 0.24893, nfactor 55, alpha 64.5, lambda 0.50, maxIterations 4 -  
+rmse 0.26038, nfactor 75, alpha 65.0, lambda 0.30, maxIterations 4 -  
+rmse 0.26008, nfactor 75, alpha 64.5, lambda 0.30, maxIterations 4 -  
+rmse 0.25946, nfactor 75, alpha 65.0, lambda 0.35, maxIterations 4    
+rmse 0.25918, nfactor 75, alpha 64.5, lambda 0.35, maxIterations 4    
+rmse 0.25873, nfactor 75, alpha 65.0, lambda 0.40, maxIterations 4 -  
+rmse 0.25847, nfactor 75, alpha 64.5, lambda 0.40, maxIterations 4 -  
+rmse 0.25813, nfactor 75, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25787, nfactor 75, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25759, nfactor 75, alpha 65.0, lambda 0.50, maxIterations 4 -  
+rmse 0.25734, nfactor 75, alpha 64.5, lambda 0.50, maxIterations 4 -  
+rmse 0.22645, nfactor 55, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22653, nfactor 55, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.22657, nfactor 55, alpha 65.0, lambda 0.45, maxIterations 2 -  
+rmse 0.22665, nfactor 55, alpha 64.5, lambda 0.45, maxIterations 2 -  
+rmse 0.22775, nfactor 56, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22784, nfactor 56, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22784, nfactor 56, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22792, nfactor 56, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22751, nfactor 57, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22759, nfactor 57, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22757, nfactor 57, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22765, nfactor 57, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22732, nfactor 58, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22739, nfactor 58, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22740, nfactor 58, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22746, nfactor 58, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22748, nfactor 59, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22755, nfactor 59, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22756, nfactor 59, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22763, nfactor 59, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22546, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 2   *
+rmse 0.22552, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22559, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22565, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22453, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 2   *
+rmse 0.22458, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22473, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22477, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22710, nfactor 62, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22715, nfactor 62, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22716, nfactor 62, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22721, nfactor 62, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22744, nfactor 63, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22749, nfactor 63, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22755, nfactor 63, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22759, nfactor 63, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22656, nfactor 64, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22659, nfactor 64, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22675, nfactor 64, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22678, nfactor 64, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22593, nfactor 65, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22595, nfactor 65, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22610, nfactor 65, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22611, nfactor 65, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22741, nfactor 66, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22744, nfactor 66, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22748, nfactor 66, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22751, nfactor 66, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22642, nfactor 67, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22644, nfactor 67, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22654, nfactor 67, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22656, nfactor 67, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22684, nfactor 68, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22686, nfactor 68, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22694, nfactor 68, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22696, nfactor 68, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22659, nfactor 69, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22662, nfactor 69, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22666, nfactor 69, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22669, nfactor 69, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22708, nfactor 70, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22708, nfactor 70, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22727, nfactor 70, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22727, nfactor 70, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22678, nfactor 71, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22678, nfactor 71, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22692, nfactor 71, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22692, nfactor 71, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22661, nfactor 72, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22660, nfactor 72, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22680, nfactor 72, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22678, nfactor 72, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22721, nfactor 73, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22721, nfactor 73, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22730, nfactor 73, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22730, nfactor 73, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22616, nfactor 74, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22615, nfactor 74, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22631, nfactor 74, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22629, nfactor 74, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22733, nfactor 75, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22732, nfactor 75, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.22746, nfactor 75, alpha 65.0, lambda 0.45, maxIterations 2 -  
+rmse 0.22744, nfactor 75, alpha 64.5, lambda 0.45, maxIterations 2 -  
+rmse 0.22656, nfactor 76, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22654, nfactor 76, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22677, nfactor 76, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22674, nfactor 76, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22792, nfactor 77, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22790, nfactor 77, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22807, nfactor 77, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22805, nfactor 77, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22626, nfactor 78, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22623, nfactor 78, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22655, nfactor 78, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22650, nfactor 78, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22658, nfactor 79, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22655, nfactor 79, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22673, nfactor 79, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22669, nfactor 79, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22833, nfactor 80, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22830, nfactor 80, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22843, nfactor 80, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22839, nfactor 80, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22638, nfactor 81, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22633, nfactor 81, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22666, nfactor 81, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22660, nfactor 81, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22886, nfactor 82, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22882, nfactor 82, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22899, nfactor 82, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22894, nfactor 82, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22822, nfactor 83, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22817, nfactor 83, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22846, nfactor 83, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22840, nfactor 83, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22679, nfactor 84, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22675, nfactor 84, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22693, nfactor 84, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22688, nfactor 84, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22865, nfactor 85, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22862, nfactor 85, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22879, nfactor 85, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22874, nfactor 85, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22780, nfactor 86, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22774, nfactor 86, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22806, nfactor 86, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22799, nfactor 86, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22817, nfactor 87, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22811, nfactor 87, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22844, nfactor 87, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22837, nfactor 87, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22795, nfactor 88, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22789, nfactor 88, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22823, nfactor 88, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22814, nfactor 88, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22891, nfactor 89, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22885, nfactor 89, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22913, nfactor 89, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22906, nfactor 89, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22913, nfactor 90, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22906, nfactor 90, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22936, nfactor 90, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22928, nfactor 90, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22793, nfactor 91, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22786, nfactor 91, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22818, nfactor 91, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22809, nfactor 91, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22932, nfactor 92, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22925, nfactor 92, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22960, nfactor 92, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22951, nfactor 92, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22935, nfactor 93, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22927, nfactor 93, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.22959, nfactor 93, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.22949, nfactor 93, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.22996, nfactor 94, alpha 65.0, lambda 0.50, maxIterations 2    
+rmse 0.22987, nfactor 94, alpha 64.5, lambda 0.50, maxIterations 2    
+rmse 0.23028, nfactor 94, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.23018, nfactor 94, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.23012, nfactor 95, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.23006, nfactor 95, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.23030, nfactor 95, alpha 65.0, lambda 0.45, maxIterations 2    
+rmse 0.23022, nfactor 95, alpha 64.5, lambda 0.45, maxIterations 2    
+rmse 0.24912, nfactor 55, alpha 65.0, lambda 0.50, maxIterations 4 -  
+rmse 0.24893, nfactor 55, alpha 64.5, lambda 0.50, maxIterations 4 -  
+rmse 0.24954, nfactor 55, alpha 65.0, lambda 0.45, maxIterations 4 -  
+rmse 0.24935, nfactor 55, alpha 64.5, lambda 0.45, maxIterations 4 -  
+rmse 0.25008, nfactor 56, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.24989, nfactor 56, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25049, nfactor 56, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25030, nfactor 56, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.24971, nfactor 57, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.24952, nfactor 57, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25013, nfactor 57, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.24993, nfactor 57, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25038, nfactor 58, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25018, nfactor 58, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25080, nfactor 58, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25059, nfactor 58, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25077, nfactor 59, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25057, nfactor 59, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25121, nfactor 59, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25100, nfactor 59, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25094, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25073, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25138, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25117, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25084, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25063, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25130, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25108, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25201, nfactor 62, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25180, nfactor 62, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25242, nfactor 62, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25221, nfactor 62, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25259, nfactor 63, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25237, nfactor 63, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25306, nfactor 63, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25284, nfactor 63, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25272, nfactor 64, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25250, nfactor 64, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25322, nfactor 64, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25299, nfactor 64, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25328, nfactor 65, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25305, nfactor 65, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25376, nfactor 65, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25352, nfactor 65, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25393, nfactor 66, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25370, nfactor 66, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25443, nfactor 66, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25419, nfactor 66, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25418, nfactor 67, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25395, nfactor 67, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25466, nfactor 67, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25443, nfactor 67, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25488, nfactor 68, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25465, nfactor 68, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25538, nfactor 68, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25514, nfactor 68, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25496, nfactor 69, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25473, nfactor 69, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25546, nfactor 69, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25523, nfactor 69, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25566, nfactor 70, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25542, nfactor 70, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25618, nfactor 70, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25594, nfactor 70, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25584, nfactor 71, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25559, nfactor 71, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25635, nfactor 71, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25610, nfactor 71, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25637, nfactor 72, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25612, nfactor 72, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25691, nfactor 72, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25666, nfactor 72, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25673, nfactor 73, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25648, nfactor 73, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25726, nfactor 73, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25701, nfactor 73, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25675, nfactor 74, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25649, nfactor 74, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25728, nfactor 74, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25702, nfactor 74, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25759, nfactor 75, alpha 65.0, lambda 0.50, maxIterations 4 -  
+rmse 0.25734, nfactor 75, alpha 64.5, lambda 0.50, maxIterations 4 -  
+rmse 0.25813, nfactor 75, alpha 65.0, lambda 0.45, maxIterations 4 -  
+rmse 0.25787, nfactor 75, alpha 64.5, lambda 0.45, maxIterations 4 -  
+rmse 0.25747, nfactor 76, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25722, nfactor 76, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25805, nfactor 76, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25779, nfactor 76, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25884, nfactor 77, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25858, nfactor 77, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25940, nfactor 77, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25914, nfactor 77, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25871, nfactor 78, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25845, nfactor 78, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25929, nfactor 78, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25903, nfactor 78, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25906, nfactor 79, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25880, nfactor 79, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.25962, nfactor 79, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25936, nfactor 79, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25979, nfactor 80, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25953, nfactor 80, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26036, nfactor 80, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26009, nfactor 80, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.25963, nfactor 81, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.25936, nfactor 81, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26026, nfactor 81, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.25998, nfactor 81, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26100, nfactor 82, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26074, nfactor 82, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26158, nfactor 82, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26131, nfactor 82, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26076, nfactor 83, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26049, nfactor 83, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26139, nfactor 83, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26111, nfactor 83, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26083, nfactor 84, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26056, nfactor 84, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26142, nfactor 84, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26115, nfactor 84, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26195, nfactor 85, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26168, nfactor 85, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26257, nfactor 85, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26229, nfactor 85, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26163, nfactor 86, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26136, nfactor 86, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26225, nfactor 86, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26197, nfactor 86, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26251, nfactor 87, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26223, nfactor 87, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26315, nfactor 87, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26287, nfactor 87, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26297, nfactor 88, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26269, nfactor 88, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26361, nfactor 88, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26332, nfactor 88, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26312, nfactor 89, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26284, nfactor 89, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26378, nfactor 89, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26349, nfactor 89, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26346, nfactor 90, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26318, nfactor 90, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26413, nfactor 90, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26384, nfactor 90, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26381, nfactor 91, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26353, nfactor 91, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26445, nfactor 91, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26416, nfactor 91, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26474, nfactor 92, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26446, nfactor 92, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26541, nfactor 92, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26512, nfactor 92, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26525, nfactor 93, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26497, nfactor 93, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26590, nfactor 93, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26561, nfactor 93, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26554, nfactor 94, alpha 65.0, lambda 0.50, maxIterations 4    
+rmse 0.26525, nfactor 94, alpha 64.5, lambda 0.50, maxIterations 4    
+rmse 0.26623, nfactor 94, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26594, nfactor 94, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.26579, nfactor 95, alpha 65.0, lambda 0.50, maxIterations 4 -  
+rmse 0.26551, nfactor 95, alpha 64.5, lambda 0.50, maxIterations 4 -  
+rmse 0.26644, nfactor 95, alpha 65.0, lambda 0.45, maxIterations 4    
+rmse 0.26615, nfactor 95, alpha 64.5, lambda 0.45, maxIterations 4    
+rmse 0.22453, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22458, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.22473, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 2 -  
+rmse 0.22477, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 2 -  
+rmse 0.22546, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22552, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.22559, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 2 -  
+rmse 0.22565, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 2 -  
+rmse 0.23942, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 3    
+rmse 0.23928, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 3    
+rmse 0.23979, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 3    
+rmse 0.23965, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 3    
+rmse 0.23970, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 3    
+rmse 0.23957, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 3    
+rmse 0.24005, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 3    
+rmse 0.23991, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 3    
+rmse 0.25084, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 4 -  
+rmse 0.25063, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 4 -  
+rmse 0.25130, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 4 -  
+rmse 0.25108, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 4 -  
+rmse 0.25094, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 4 -  
+rmse 0.25073, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 4 -  
+rmse 0.25138, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 4 -  
+rmse 0.25117, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 4 -  
+rmse 0.25912, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 5    
+rmse 0.25887, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 5    
+rmse 0.25966, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 5    
+rmse 0.25940, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 5    
+rmse 0.25907, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 5    
+rmse 0.25881, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 5    
+rmse 0.25959, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 5    
+rmse 0.25934, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 5    
+rmse 0.22458, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.22453, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22477, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 2 -  
+rmse 0.22473, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 2 -  
+rmse 0.22552, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.22546, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22565, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 2 -  
+rmse 0.22559, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 2 -  
+rmse 0.23928, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 3 -  
+rmse 0.23942, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 3 -  
+rmse 0.23965, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 3 -  
+rmse 0.23979, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 3 -  
+rmse 0.23957, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 3 -  
+rmse 0.23970, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 3 -  
+rmse 0.23991, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 3 -  
+rmse 0.24005, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 3 -  
+rmse 0.22473, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 2 -  
+rmse 0.22477, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 2 -  
+rmse 0.22453, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22458, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.22559, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 2 -  
+rmse 0.22565, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 2 -  
+rmse 0.22546, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22552, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.23979, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 3 -  
+rmse 0.23965, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 3 -  
+rmse 0.23942, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 3 -  
+rmse 0.23928, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 3 -  
+rmse 0.24005, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 3 -  
+rmse 0.23991, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 3 -  
+rmse 0.23970, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 3 -  
+rmse 0.23957, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 3 -  
+rmse 0.22546, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22552, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.22559, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 2 -  
+rmse 0.22565, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 2 -  
+rmse 0.22453, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 2 -  
+rmse 0.22458, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 2 -  
+rmse 0.22473, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 2 -  
+rmse 0.22477, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 2 -  
+rmse 0.23970, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 3 -  
+rmse 0.23957, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 3 -  
+rmse 0.24005, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 3 -  
+rmse 0.23991, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 3 -  
+rmse 0.23942, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 3 -  
+rmse 0.23928, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 3 -  
+rmse 0.23979, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 3 -  
+rmse 0.23965, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 3 -  
+calcs w/o hipa: 50020
+calcs w/  hipa: 1987
+calc hits     : 108
+calc saving   : 96%
+top 10 best parameter sets:
+ 0: rmse 0.22453, nfactor 61, alpha 65.0, lambda 0.50, maxIterations 2
+ 1: rmse 0.22458, nfactor 61, alpha 64.5, lambda 0.50, maxIterations 2
+ 2: rmse 0.22473, nfactor 61, alpha 65.0, lambda 0.45, maxIterations 2
+ 3: rmse 0.22477, nfactor 61, alpha 64.5, lambda 0.45, maxIterations 2
+ 4: rmse 0.22546, nfactor 60, alpha 65.0, lambda 0.50, maxIterations 2
+ 5: rmse 0.22552, nfactor 60, alpha 64.5, lambda 0.50, maxIterations 2
+ 6: rmse 0.22559, nfactor 60, alpha 65.0, lambda 0.45, maxIterations 2
+ 7: rmse 0.22565, nfactor 60, alpha 64.5, lambda 0.45, maxIterations 2
+ 8: rmse 0.22593, nfactor 65, alpha 65.0, lambda 0.50, maxIterations 2
+ 9: rmse 0.22595, nfactor 65, alpha 64.5, lambda 0.50, maxIterations 2
+
+real	1758m21.353s
+user	5131m23.660s
+sys	1573m4.184s

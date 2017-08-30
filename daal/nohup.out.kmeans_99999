@@ -1,0 +1,140 @@
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 2
+iteration 2
+iteration 2
+iteration 2
+iteration 3
+iteration 3
+iteration 3
+iteration 3
+iteration 4
+iteration 4
+iteration 4
+iteration 4
+iteration 5
+iteration 5
+iteration 5
+iteration 5
+iteration 6
+iteration 6
+iteration 6
+iteration 6
+iteration 7
+iteration 7
+iteration 7
+iteration 7
+iteration 8
+iteration 8
+iteration 8
+iteration 8
+iteration 9
+iteration 9
+iteration 9
+iteration 9
+iteration 10
+iteration 10
+iteration 10
+iteration 10
+iteration 11
+iteration 11
+iteration 11
+iteration 11
+iteration 12
+iteration 12
+iteration 12
+iteration 12
+iteration 13
+iteration 13
+iteration 13
+iteration 13
+iteration 14
+iteration 14
+iteration 14
+iteration 14
+iteration 15
+iteration 15
+iteration 15
+iteration 15
+iteration 16
+iteration 16
+iteration 16
+iteration 16
+iteration 17
+iteration 17
+iteration 17
+iteration 17
+iteration 18
+iteration 18
+iteration 18
+iteration 18
+iteration 19
+iteration 19
+iteration 19
+iteration 19
+iteration 20
+iteration 20
+iteration 20
+iteration 20
+First 5 dimensions of centroids (root):
+1.000     -42.111   95.444    0.000     2.111     2.667     67.000    
+1.000     -61.762   95.524    0.762     1.190     10.905    33.048    
+1.000     -67.145   96.673    0.000     1.018     7.327     12.855    
+1.000     -77.000   96.368    0.947     1.053     5.421     80.105    
+1.000     -68.200   74.000    16.450    1.450     2.550     80.600    
+
+First 5 dimensions of centroids:
+1.000     -42.111   95.444    0.000     2.111     2.667     67.000    
+1.000     -61.762   95.524    0.762     1.190     10.905    33.048    
+1.000     -67.145   96.673    0.000     1.018     7.327     12.855    
+1.000     -77.000   96.368    0.947     1.053     5.421     80.105    
+1.000     -68.200   74.000    16.450    1.450     2.550     80.600    
+
+First 5 dimensions of centroids:
+1.000     -42.111   95.444    0.000     2.111     2.667     67.000    
+1.000     -61.762   95.524    0.762     1.190     10.905    33.048    
+1.000     -67.145   96.673    0.000     1.018     7.327     12.855    
+1.000     -77.000   96.368    0.947     1.053     5.421     80.105    
+1.000     -68.200   74.000    16.450    1.450     2.550     80.600    
+
+First 5 dimensions of centroids:
+1.000     -42.111   95.444    0.000     2.111     2.667     67.000    
+1.000     -61.762   95.524    0.762     1.190     10.905    33.048    
+1.000     -67.145   96.673    0.000     1.018     7.327     12.855    
+1.000     -77.000   96.368    0.947     1.053     5.421     80.105    
+1.000     -68.200   74.000    16.450    1.450     2.550     80.600    
+
+First 5 assignment:
+33772.000 
+13811.000 
+26463.000 
+71986.000 
+47390.000 
+
+First 5 assignment:
+19299.000 
+6896.000  
+8109.000  
+18378.000 
+37960.000 
+
+First 5 assignment:
+21304.000 
+58083.000 
+51569.000 
+1062.000  
+89004.000 
+
+First 5 assignment:
+64808.000 
+54342.000 
+50198.000 
+63715.000 
+57112.000 
+
+
+real	141m46.587s
+user	559m52.132s
+sys	0m38.576s
