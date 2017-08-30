@@ -39,7 +39,7 @@ The project has two different implementations:
 * The Python implementation is provided in a Jupyter notebook. It requires Jupyter Notebook.
 * The C++ implementations requires GNU C++11, MPICH library (or OpenMPI or Intel MPI) and Intel DAAL.
 
-Both implementations uses the same set of data samples in [etl2M.csv.*](https://github.com/fleapapa/network_profile_recommender/tree/master/data). To run the same code on multiple 
+Both implementations uses the same set of data samples. To run the same code on multiple 
 distributed nodes, a network file system like NFS or Samba or a distributed file system like HDFS,
 GlusterFS or CephFS is required to access networked or distributed data files.
 

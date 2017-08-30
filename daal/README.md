@@ -28,7 +28,7 @@ The implementation is divided in three files, which together perform the followi
 * Python 2.7
 * Jupyter Notebook
 
-For multiple distributed MPI nodes to access the files in /data, a network file system like NFS or Samba,
+For multiple distributed MPI nodes to access the data samples, a network file system like NFS or Samba,
 or a distributed file system like HDFS, GlusterFS or CephFS is required.
 
 
